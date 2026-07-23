@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Barbell",
+    "scrape_metadata": {
+      "dom_index": 0,
+      "filter_id": "filter-equipments-0",
+      "selector": "label[for^='filter-equipments-']",
+      "scraped_at": "2026-07-23T11:28:32+07:00"
+    }
+  },
+  {
+    "name": "Dumbbells",
+    "scrape_metadata": {
+      "dom_index": 1,
+      "filter_id": "filter-equipments-1",
+      "selector": "label[for^='filter-equipments-']",
+      "scraped_at": "2026-07-23T11:28:32+07:00"
+    }
+  },
+  {
+    "name": "Bodyweight",
+    "scrape_metadata": {
+      "dom_index": 2,
+      "filter_id": "filter-equipments-2",
+      "selector": "label[for^='filter-equipments-']",
+      "scraped_at": "2026-07-23T11:28:32+07:00"
+    }
+  },
+  {
+    "name": "Machine",
+    "scrape_metadata": {
+      "dom_index": 3,
+      "filter_id": "filter-equipments-3",
+      "selector": "label[for^='filter-equipments-']",
+      "scraped_at": "2026-07-23T11:28:32+07:00"
+    }
+  },
+  {
+    "name": "Medicine Ball",
+    "scrape_metadata": {
+      "dom_index": 4,
+      "filter_id": "filter-equipments-4",
+      "selector": "label[for^='filter-equipments-']",
+      "scraped_at": "2026-07-23T11:28:32+07:00"
+    }
+  },
+  {
+    "name": "Kettlebells",
+    "scrape_metadata": {
+      "dom_index": 5,
+      "filter_id": "filter-equipments-5",
+      "selector": "label[for^='filter-equipments-']",
+      "scraped_at": "2026-07-23T11:28:32+07:00"
+    }
+  },
+  {
+    "name": "Stretches",
+    "scrape_metadata": {
+      "dom_index": 6,
+      "filter_id": "filter-equipments-6",
+      "selector": "label[for^='filter-equipments-']",
+      "scraped_at": "2026-07-23T11:28:32+07:00"
+    }
+  },
+  {
+    "name": "Cables",
+    "scrape_metadata": {
+      "dom_index": 7,
+      "filter_id": "filter-equipments-7",
+      "selector": "label[for^='filter-equipments-']",
+      "scraped_at": "2026-07-23T11:28:32+07:00"
+    }
+  },
+  {
+    "name": "Band",
+    "scrape_metadata": {
+      "dom_index": 8,
+      "filter_id": "filter-equipments-8",
+      "selector": "label[for^='filter-equipments-']",
+      "scraped_at": "2026-07-23T11:28:32+07:00"
+    }
+  },
+  {
+    "name": "Plate",
+    "scrape_metadata": {
+      "dom_index": 9,
+      "filter_id": "filter-equipments-9",
+      "selector": "label[for^='filter-equipments-']",
+      "scraped_at": "2026-07-23T11:28:32+07:00"
+    }
+  },
+  {
+    "name": "TRX",
+    "scrape_metadata": {
+      "dom_index": 10,
+      "filter_id": "filter-equipments-10",
+      "selector": "label[for^='filter-equipments-']",
+      "scraped_at": "2026-07-23T11:28:32+07:00"
+    }
+  },
+  {
+    "name": "Yoga",
+    "scrape_metadata": {
+      "dom_index": 11,
+      "filter_id": "filter-equipments-11",
+      "selector": "label[for^='filter-equipments-']",
+      "scraped_at": "2026-07-23T11:28:32+07:00"
+    }
+  },
+  {
+    "name": "Bosu Ball",
+    "scrape_metadata": {
+      "dom_index": 12,
+      "filter_id": "filter-equipments-12",
+      "selector": "label[for^='filter-equipments-']",
+      "scraped_at": "2026-07-23T11:28:32+07:00"
+    }
+  },
+  {
+    "name": "Cardio",
+    "scrape_metadata": {
+      "dom_index": 13,
+      "filter_id": "filter-equipments-13",
+      "selector": "label[for^='filter-equipments-']",
+      "scraped_at": "2026-07-23T11:28:32+07:00"
+    }
+  },
+  {
+    "name": "Smith Machine",
+    "scrape_metadata": {
+      "dom_index": 14,
+      "filter_id": "filter-equipments-14",
+      "selector": "label[for^='filter-equipments-']",
+      "scraped_at": "2026-07-23T11:28:32+07:00"
+    }
+  },
+  {
+    "name": "Recovery",
+    "scrape_metadata": {
+      "dom_index": 15,
+      "filter_id": "filter-equipments-15",
+      "selector": "label[for^='filter-equipments-']",
+      "scraped_at": "2026-07-23T11:28:32+07:00"
+    }
+  },
+  {
+    "name": "Pilates",
+    "scrape_metadata": {
+      "dom_index": 16,
+      "filter_id": "filter-equipments-16",
+      "selector": "label[for^='filter-equipments-']",
+      "scraped_at": "2026-07-23T11:28:32+07:00"
+    }
+  }
+]

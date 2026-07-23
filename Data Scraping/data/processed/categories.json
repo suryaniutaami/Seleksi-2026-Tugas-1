@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Barbell",
+    "type": "Equipment"
+  },
+  {
+    "name": "Dumbbells",
+    "type": "Equipment"
+  },
+  {
+    "name": "Bodyweight",
+    "type": "Equipment"
+  },
+  {
+    "name": "Machine",
+    "type": "Equipment"
+  },
+  {
+    "name": "Medicine Ball",
+    "type": "Equipment"
+  },
+  {
+    "name": "Kettlebells",
+    "type": "Equipment"
+  },
+  {
+    "name": "Stretches",
+    "type": "Exercise Type"
+  },
+  {
+    "name": "Cables",
+    "type": "Equipment"
+  },
+  {
+    "name": "Band",
+    "type": "Equipment"
+  },
+  {
+    "name": "Plate",
+    "type": "Equipment"
+  },
+  {
+    "name": "TRX",
+    "type": "Equipment"
+  },
+  {
+    "name": "Yoga",
+    "type": "Exercise Type"
+  },
+  {
+    "name": "Bosu Ball",
+    "type": "Equipment"
+  },
+  {
+    "name": "Cardio",
+    "type": "Exercise Type"
+  },
+  {
+    "name": "Smith Machine",
+    "type": "Equipment"
+  },
+  {
+    "name": "Recovery",
+    "type": "Exercise Type"
+  },
+  {
+    "name": "Pilates",
+    "type": "Exercise Type"
+  }
+]

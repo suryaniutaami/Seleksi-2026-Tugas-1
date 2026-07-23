@@ -1,0 +1,821 @@
+[
+  {
+    "name": "View Full Body Novice Bodybuilding - Day 1 workout details",
+    "detail_url": "https://musclewiki.com/workout/full-body-bodybuilding-workout-day-one",
+    "difficulty": "Novice",
+    "goal": "Gain Muscle",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 1,
+      "dom_index": 0,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:06+07:00"
+    }
+  },
+  {
+    "name": "View Full Body Novice Bodybuilding - Day 2 workout details",
+    "detail_url": "https://musclewiki.com/workout/full-body-novice-bodybuilding-workout-day-two",
+    "difficulty": "Novice",
+    "goal": "Gain Muscle",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 1,
+      "dom_index": 1,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:06+07:00"
+    }
+  },
+  {
+    "name": "View Full Body Novice Bodybuilding - Day 3 workout details",
+    "detail_url": "https://musclewiki.com/workout/full-body-novice-workout-bodybuilding-day-3",
+    "difficulty": "Novice",
+    "goal": "Gain Muscle",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 1,
+      "dom_index": 2,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:06+07:00"
+    }
+  },
+  {
+    "name": "View The 1 Dumbbell Workout workout details",
+    "detail_url": "https://musclewiki.com/workout/full-body-1-dumbbell-workout",
+    "difficulty": "Beginner",
+    "goal": "Gain Muscle",
+    "description": "This workout is designed to be completed with just one dumbbell.",
+    "scrape_metadata": {
+      "page_number": 1,
+      "dom_index": 3,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:06+07:00"
+    }
+  },
+  {
+    "name": "View Beginner Dumbbell Workout workout details",
+    "detail_url": "https://musclewiki.com/workout/beginner-dumbbell-workout",
+    "difficulty": "Beginner",
+    "goal": "Gain Muscle",
+    "description": "Quick dumbbell routine for beginners",
+    "scrape_metadata": {
+      "page_number": 1,
+      "dom_index": 4,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:06+07:00"
+    }
+  },
+  {
+    "name": "View Triceps for Beginners workout details",
+    "detail_url": "https://musclewiki.com/workout/beginner-tricep-workout",
+    "difficulty": "Beginner",
+    "goal": "Gain Muscle",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 1,
+      "dom_index": 5,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:06+07:00"
+    }
+  },
+  {
+    "name": "View Upper Body for Women (Beginners) workout details",
+    "detail_url": "https://musclewiki.com/workout/upper-body-workout-for-women-beginners",
+    "difficulty": "Beginner",
+    "goal": "Gain Muscle",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 1,
+      "dom_index": 6,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:06+07:00"
+    }
+  },
+  {
+    "name": "View Advanced Arms and Abs workout details",
+    "detail_url": "https://musclewiki.com/workout/advanced-arms-and-abs",
+    "difficulty": "Advanced",
+    "goal": "Gain Muscle",
+    "description": "Ryan Watsons favorite arms and abs workout",
+    "scrape_metadata": {
+      "page_number": 1,
+      "dom_index": 7,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:06+07:00"
+    }
+  },
+  {
+    "name": "View Advanced Kettlebell Workout workout details",
+    "detail_url": "https://musclewiki.com/workout/advanced-kettlebell-workout",
+    "difficulty": "Advanced",
+    "goal": "Gain Muscle",
+    "description": "Full body workout",
+    "scrape_metadata": {
+      "page_number": 1,
+      "dom_index": 8,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:06+07:00"
+    }
+  },
+  {
+    "name": "View Beginner Barbell Workout workout details",
+    "detail_url": "https://musclewiki.com/workout/beginner-barbell-workout",
+    "difficulty": "Beginner",
+    "goal": "Gain Muscle",
+    "description": "Workout for beginner barbell users.",
+    "scrape_metadata": {
+      "page_number": 2,
+      "dom_index": 0,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:09+07:00"
+    }
+  },
+  {
+    "name": "View Intermediate Barbell Workout workout details",
+    "detail_url": "https://musclewiki.com/workout/intermediate-barbell-workout",
+    "difficulty": "Intermediate",
+    "goal": "Gain Muscle",
+    "description": "All barbell intermediate",
+    "scrape_metadata": {
+      "page_number": 2,
+      "dom_index": 1,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:09+07:00"
+    }
+  },
+  {
+    "name": "View Advanced Barbell Workout workout details",
+    "detail_url": "https://musclewiki.com/workout/advanced-barbell-workout",
+    "difficulty": "Advanced",
+    "goal": "Gain Muscle",
+    "description": "Barbell workout for advanced trainees.",
+    "scrape_metadata": {
+      "page_number": 2,
+      "dom_index": 2,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:09+07:00"
+    }
+  },
+  {
+    "name": "View Beginner's Dumbbell Routine - Day 1 workout details",
+    "detail_url": "https://musclewiki.com/workout/beginner-dumbell-routine-day-1",
+    "difficulty": "Beginner",
+    "goal": "Gain Muscle",
+    "description": "Full body workout for beginners using only dumbbells.",
+    "scrape_metadata": {
+      "page_number": 2,
+      "dom_index": 3,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:09+07:00"
+    }
+  },
+  {
+    "name": "View Intermediate Dumbbell Routine - Day 1 workout details",
+    "detail_url": "https://musclewiki.com/workout/intermediate-dumbbell-routine-day-1",
+    "difficulty": "Intermediate",
+    "goal": "Gain Muscle",
+    "description": "All dumbbell workout for intermediate trainees.",
+    "scrape_metadata": {
+      "page_number": 2,
+      "dom_index": 4,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:09+07:00"
+    }
+  },
+  {
+    "name": "View Advanced Dumbbell Workout workout details",
+    "detail_url": "https://musclewiki.com/workout/advanced-dumbbell-workout",
+    "difficulty": "Advanced",
+    "goal": "Gain Muscle",
+    "description": "Dumbbell workout for advanced trainees. (Not for the faint of heart)",
+    "scrape_metadata": {
+      "page_number": 2,
+      "dom_index": 5,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:09+07:00"
+    }
+  },
+  {
+    "name": "View Beginner Bodyweight Workout workout details",
+    "detail_url": "https://musclewiki.com/workout/beginner-bodyweight-workout",
+    "difficulty": "Beginner",
+    "goal": "Gain Muscle",
+    "description": "All bodyweight exercises. Great for at home.",
+    "scrape_metadata": {
+      "page_number": 2,
+      "dom_index": 6,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:09+07:00"
+    }
+  },
+  {
+    "name": "View Intermediate Bodyweight Workout workout details",
+    "detail_url": "https://musclewiki.com/workout/intermediate-bodyweight-workout",
+    "difficulty": "Intermediate",
+    "goal": "Gain Muscle",
+    "description": "All bodyweight intermediate level workout to be done from home or at a park.",
+    "scrape_metadata": {
+      "page_number": 2,
+      "dom_index": 7,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:09+07:00"
+    }
+  },
+  {
+    "name": "View Advanced Bodyweight Workout workout details",
+    "detail_url": "https://musclewiki.com/workout/advanced-bodyweight-workout",
+    "difficulty": "Advanced",
+    "goal": "Gain Muscle",
+    "description": "Bodyweight workout for advanced trainees. Great for at home, in a hotel room, or at a park.",
+    "scrape_metadata": {
+      "page_number": 2,
+      "dom_index": 8,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:09+07:00"
+    }
+  },
+  {
+    "name": "View Beginner Bodybuilder - Chest and Shoulders workout details",
+    "detail_url": "https://musclewiki.com/workout/beginner-bodybuilder-chest-and-shoulders",
+    "difficulty": "Beginner",
+    "goal": "Gain Muscle",
+    "description": "Beginner bodybuilding routine for those new to the gym.",
+    "scrape_metadata": {
+      "page_number": 3,
+      "dom_index": 0,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:12+07:00"
+    }
+  },
+  {
+    "name": "View Beginner Bodybuilder - Leg Day workout details",
+    "detail_url": "https://musclewiki.com/workout/beginner-bodybuilder-leg-day",
+    "difficulty": "Beginner",
+    "goal": "Gain Muscle",
+    "description": "Beginner bodybuilding routine for those new to the gym.",
+    "scrape_metadata": {
+      "page_number": 3,
+      "dom_index": 1,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:12+07:00"
+    }
+  },
+  {
+    "name": "View Beginner Bodybuilder - Back workout details",
+    "detail_url": "https://musclewiki.com/workout/beginner-bodybuilder-back",
+    "difficulty": "Beginner",
+    "goal": "Gain Muscle",
+    "description": "Beginner bodybuilding routine for those new to the gym.",
+    "scrape_metadata": {
+      "page_number": 3,
+      "dom_index": 2,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:12+07:00"
+    }
+  },
+  {
+    "name": "View Beginner Bodybuilder - Arms workout details",
+    "detail_url": "https://musclewiki.com/workout/beginner-bodybuilder-arms",
+    "difficulty": "Beginner",
+    "goal": "Gain Muscle",
+    "description": "Beginner bodybuilding routine for those new to the gym.",
+    "scrape_metadata": {
+      "page_number": 3,
+      "dom_index": 3,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:12+07:00"
+    }
+  },
+  {
+    "name": "View Beginner Band Workout workout details",
+    "detail_url": "https://musclewiki.com/workout/beginner-band-workout",
+    "difficulty": "Beginner",
+    "goal": "Gain Muscle",
+    "description": "All band workout for beginners to be performed from home, at a hotel, or in a park.",
+    "scrape_metadata": {
+      "page_number": 3,
+      "dom_index": 4,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:12+07:00"
+    }
+  },
+  {
+    "name": "View Intermediate Band Workout workout details",
+    "detail_url": "https://musclewiki.com/workout/intermediate-band-workout",
+    "difficulty": "Intermediate",
+    "goal": "Gain Muscle",
+    "description": "All band workout for intermediate trainees. Great for at home.",
+    "scrape_metadata": {
+      "page_number": 3,
+      "dom_index": 5,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:12+07:00"
+    }
+  },
+  {
+    "name": "View Advanced Band Workout workout details",
+    "detail_url": "https://musclewiki.com/workout/advanced-band-workout",
+    "difficulty": "Advanced",
+    "goal": "Gain Muscle",
+    "description": "All band workout for advanced trainees.",
+    "scrape_metadata": {
+      "page_number": 3,
+      "dom_index": 6,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:12+07:00"
+    }
+  },
+  {
+    "name": "View Beginner Cable Workout workout details",
+    "detail_url": "https://musclewiki.com/workout/beginner-cable-workout",
+    "difficulty": "Beginner",
+    "goal": "Gain Muscle",
+    "description": "Workout to be done with cables for beginner trainees.",
+    "scrape_metadata": {
+      "page_number": 3,
+      "dom_index": 7,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:12+07:00"
+    }
+  },
+  {
+    "name": "View Intermediate Cable Workout workout details",
+    "detail_url": "https://musclewiki.com/workout/intermediate-cable-workout",
+    "difficulty": "Intermediate",
+    "goal": "Gain Muscle",
+    "description": "Workout using cables for intermediate trainees.",
+    "scrape_metadata": {
+      "page_number": 3,
+      "dom_index": 8,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:12+07:00"
+    }
+  },
+  {
+    "name": "View Full Body Advanced Bodybuilder Workout workout details",
+    "detail_url": "https://musclewiki.com/workout/full-body-advanced-bodybuilder-workout",
+    "difficulty": "Advanced",
+    "goal": "Gain Muscle",
+    "description": "For advanced trainees looking to pack on serious muscle.",
+    "scrape_metadata": {
+      "page_number": 4,
+      "dom_index": 0,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:16+07:00"
+    }
+  },
+  {
+    "name": "View Chat GPT Bodyweight for Beginnners workout details",
+    "detail_url": "https://musclewiki.com/workout/chat-gpt-bodyweight-for-beginnners",
+    "difficulty": "Beginner",
+    "goal": "Gain Muscle",
+    "description": "We had Chat GPT design a workout for us. We asked for 6 bodyweight exercises that would train the full body. Here's what we got!",
+    "scrape_metadata": {
+      "page_number": 4,
+      "dom_index": 1,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:16+07:00"
+    }
+  },
+  {
+    "name": "View Beginner Glute Workout workout details",
+    "detail_url": "https://musclewiki.com/workout/glute-workouts-for-beginners",
+    "difficulty": "Beginner",
+    "goal": "Gain Muscle",
+    "description": "Glute workout for beginners!",
+    "scrape_metadata": {
+      "page_number": 4,
+      "dom_index": 2,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:16+07:00"
+    }
+  },
+  {
+    "name": "View Intermediate Glute Workout workout details",
+    "detail_url": "https://musclewiki.com/workout/glute-workout-for-intermediates",
+    "difficulty": "Intermediate",
+    "goal": "Gain Muscle",
+    "description": "Glute workout for the individual with some experience training glutes.",
+    "scrape_metadata": {
+      "page_number": 4,
+      "dom_index": 3,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:16+07:00"
+    }
+  },
+  {
+    "name": "View Advanced Glute Workout workout details",
+    "detail_url": "https://musclewiki.com/workout/glute-workout-for-advanced",
+    "difficulty": "Advanced",
+    "goal": "Gain Muscle",
+    "description": "This glute workout is not for the faint of heart.",
+    "scrape_metadata": {
+      "page_number": 4,
+      "dom_index": 4,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:16+07:00"
+    }
+  },
+  {
+    "name": "View Triceps for Intermediates workout details",
+    "detail_url": "https://musclewiki.com/workout/intermediate-tricep-workout",
+    "difficulty": "Intermediate",
+    "goal": "Gain Muscle",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 4,
+      "dom_index": 5,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:16+07:00"
+    }
+  },
+  {
+    "name": "View Advanced Tricep Workout workout details",
+    "detail_url": "https://musclewiki.com/workout/advanced-tricep-workout",
+    "difficulty": "Advanced",
+    "goal": "Gain Muscle",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 4,
+      "dom_index": 6,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:16+07:00"
+    }
+  },
+  {
+    "name": "View Push for Beginners workout details",
+    "detail_url": "https://musclewiki.com/workout/beginner-push",
+    "difficulty": "Beginner",
+    "goal": "Gain Muscle",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 4,
+      "dom_index": 7,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:16+07:00"
+    }
+  },
+  {
+    "name": "View Pull for Beginners workout details",
+    "detail_url": "https://musclewiki.com/workout/beginner-pull-workout",
+    "difficulty": "Beginner",
+    "goal": "Gain Muscle",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 4,
+      "dom_index": 8,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:16+07:00"
+    }
+  },
+  {
+    "name": "View Legs for Beginners workout details",
+    "detail_url": "https://musclewiki.com/workout/beginner-leg-workout",
+    "difficulty": "Beginner",
+    "goal": "Gain Muscle",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 5,
+      "dom_index": 0,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:20+07:00"
+    }
+  },
+  {
+    "name": "View Full Body Bodybuilding - Day 1 workout details",
+    "detail_url": "https://musclewiki.com/workout/full-body-bodybuilding-1",
+    "difficulty": "Beginner",
+    "goal": "Gain Muscle",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 5,
+      "dom_index": 1,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:20+07:00"
+    }
+  },
+  {
+    "name": "View Full Body Bodybuilding - Day 2 workout details",
+    "detail_url": "https://musclewiki.com/workout/full-body-bodybuilding-day-2",
+    "difficulty": "Beginner",
+    "goal": "Gain Muscle",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 5,
+      "dom_index": 2,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:20+07:00"
+    }
+  },
+  {
+    "name": "View Full Body Bodybuilding - Day 3 workout details",
+    "detail_url": "https://musclewiki.com/workout/full-body-bodybuilding-day-3",
+    "difficulty": "Beginner",
+    "goal": "Gain Muscle",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 5,
+      "dom_index": 3,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:20+07:00"
+    }
+  },
+  {
+    "name": "View Legs for Ladies (Beginner) workout details",
+    "detail_url": "https://musclewiki.com/workout/leg-workout-for-women",
+    "difficulty": "Beginner",
+    "goal": "Gain Muscle",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 5,
+      "dom_index": 4,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:20+07:00"
+    }
+  },
+  {
+    "name": "View Foundational Strength Training Plan - A workout details",
+    "detail_url": "https://musclewiki.com/workout/foundational-strength-training-plan-a",
+    "difficulty": "Beginner",
+    "goal": "Gain Muscle",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 5,
+      "dom_index": 5,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:20+07:00"
+    }
+  },
+  {
+    "name": "View Foundational Strength Training Plan - B workout details",
+    "detail_url": "https://musclewiki.com/workout/foundational-strength-training-plan-b",
+    "difficulty": "Beginner",
+    "goal": "Get Stronger",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 5,
+      "dom_index": 6,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:20+07:00"
+    }
+  },
+  {
+    "name": "View Beginner Strength Training Protocol - A workout details",
+    "detail_url": "https://musclewiki.com/workout/beginner-strength-protocol-a",
+    "difficulty": "Beginner",
+    "goal": "Get Stronger",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 5,
+      "dom_index": 7,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:20+07:00"
+    }
+  },
+  {
+    "name": "View Beginner Barbell Strength Protocol B workout details",
+    "detail_url": "https://musclewiki.com/workout/beginner-barbell-strength-protocol-b",
+    "difficulty": "Beginner",
+    "goal": "Get Stronger",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 5,
+      "dom_index": 8,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:20+07:00"
+    }
+  },
+  {
+    "name": "View Weekly Periodized Strength Program - Week 1 - A workout details",
+    "detail_url": "https://musclewiki.com/workout/weekly-periodized-strength-program-week-1-a",
+    "difficulty": "Intermediate",
+    "goal": "Get Stronger",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 6,
+      "dom_index": 0,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:23+07:00"
+    }
+  },
+  {
+    "name": "View Weekly Periodized Strength Program - Week 1 - B workout details",
+    "detail_url": "https://musclewiki.com/workout/weekly-periodized-strength-program-week-1-b",
+    "difficulty": "Intermediate",
+    "goal": "Get Stronger",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 6,
+      "dom_index": 1,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:23+07:00"
+    }
+  },
+  {
+    "name": "View Weekly Periodized Strength Program - Week 1 - C workout details",
+    "detail_url": "https://musclewiki.com/workout/weekly-periodized-strength-program-week-1-c",
+    "difficulty": "Intermediate",
+    "goal": "Get Stronger",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 6,
+      "dom_index": 2,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:23+07:00"
+    }
+  },
+  {
+    "name": "View Weekly Periodized Strength Program - Week 2 - A workout details",
+    "detail_url": "https://musclewiki.com/workout/weekly-periodized-strength-program-week-2-a",
+    "difficulty": "Intermediate",
+    "goal": "Get Stronger",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 6,
+      "dom_index": 3,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:23+07:00"
+    }
+  },
+  {
+    "name": "View Weekly Periodized Strength Program - Week 2 - B workout details",
+    "detail_url": "https://musclewiki.com/workout/weekly-periodized-strength-program-week-2-b",
+    "difficulty": "Intermediate",
+    "goal": "Get Stronger",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 6,
+      "dom_index": 4,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:23+07:00"
+    }
+  },
+  {
+    "name": "View Weekly Periodized Strength Program - Week 2 - C workout details",
+    "detail_url": "https://musclewiki.com/workout/weekly-periodized-strength-program-week-2-c",
+    "difficulty": "Intermediate",
+    "goal": "Get Stronger",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 6,
+      "dom_index": 5,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:23+07:00"
+    }
+  },
+  {
+    "name": "View Beginner Science-Based Chest Workout - 1 workout details",
+    "detail_url": "https://musclewiki.com/workout/beginner-science-based-chest-workout-1",
+    "difficulty": "Beginner",
+    "goal": "Gain Muscle",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 6,
+      "dom_index": 6,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:23+07:00"
+    }
+  },
+  {
+    "name": "View Beginner Science-Based Chest Workout - 2 workout details",
+    "detail_url": "https://musclewiki.com/workout/Beginner-Science-Based-Chest-Workout-2",
+    "difficulty": "Beginner",
+    "goal": "Gain Muscle",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 6,
+      "dom_index": 7,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:23+07:00"
+    }
+  },
+  {
+    "name": "View Advanced Science-Based Chest Workout - 1 workout details",
+    "detail_url": "https://musclewiki.com/workout/Advanced-Science-Based-Chest-Workout-1",
+    "difficulty": "Advanced",
+    "goal": "Gain Muscle",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 6,
+      "dom_index": 8,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:23+07:00"
+    }
+  },
+  {
+    "name": "View Advanced Science-Based Chest Workout - 2 workout details",
+    "detail_url": "https://musclewiki.com/workout/Advanced-Science-Based-Chest-Workout-2",
+    "difficulty": "Advanced",
+    "goal": "Gain Muscle",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 7,
+      "dom_index": 0,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:26+07:00"
+    }
+  },
+  {
+    "name": "View Advanced Science-Based Chest Workout - 3 workout details",
+    "detail_url": "https://musclewiki.com/workout/Advanced-Science-Based-Chest-Workout-3",
+    "difficulty": "Advanced",
+    "goal": "Gain Muscle",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 7,
+      "dom_index": 1,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:26+07:00"
+    }
+  },
+  {
+    "name": "View Full Body Smith Machine - 1 workout details",
+    "detail_url": "https://musclewiki.com/workout/full-body-smith-machine-workout-day-1",
+    "difficulty": "Intermediate",
+    "goal": "Gain Muscle",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 7,
+      "dom_index": 2,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:26+07:00"
+    }
+  },
+  {
+    "name": "View Full Body Smith Machine - 2 workout details",
+    "detail_url": "https://musclewiki.com/workout/full-body-smith-machine-2",
+    "difficulty": "Intermediate",
+    "goal": "Gain Muscle",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 7,
+      "dom_index": 3,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:26+07:00"
+    }
+  },
+  {
+    "name": "View Core Conditioning workout details",
+    "detail_url": "https://musclewiki.com/workout/core-conditioning",
+    "difficulty": "Beginner",
+    "goal": "Gain Muscle",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 7,
+      "dom_index": 4,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:26+07:00"
+    }
+  },
+  {
+    "name": "View Ab Workout 1 workout details",
+    "detail_url": "https://musclewiki.com/workout/ab-workout-1",
+    "difficulty": "Intermediate",
+    "goal": "Gain Muscle",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 7,
+      "dom_index": 5,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:26+07:00"
+    }
+  },
+  {
+    "name": "View Ab Workout 2 workout details",
+    "detail_url": "https://musclewiki.com/workout/ab-workout-2",
+    "difficulty": "Intermediate",
+    "goal": "Gain Muscle",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 7,
+      "dom_index": 6,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:26+07:00"
+    }
+  },
+  {
+    "name": "View Ab Workout 3 workout details",
+    "detail_url": "https://musclewiki.com/workout/ab-workout-3",
+    "difficulty": "Intermediate",
+    "goal": "Gain Muscle",
+    "description": null,
+    "scrape_metadata": {
+      "page_number": 7,
+      "dom_index": 7,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:26+07:00"
+    }
+  },
+  {
+    "name": "View Senior Three Day Split - Chest Day workout details",
+    "detail_url": "https://musclewiki.com/workout/senior-three-day-split-chest-day",
+    "difficulty": "Beginner",
+    "goal": "Get Stronger",
+    "description": "The chest day is the first workout in the senior three day split routine. If the barbell is too heavy to start with, you can replace the barbell bench press with a dumbbell bench press to accommodate a lighter lift.",
+    "scrape_metadata": {
+      "page_number": 7,
+      "dom_index": 8,
+      "selector": "a[href^='/workout/'][aria-label]",
+      "scraped_at": "2026-07-23T15:22:26+07:00"
+    }
+  }
+]

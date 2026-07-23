@@ -1,0 +1,26 @@
+[
+  {
+    "program_name": "Full Body Novice Bodybuilding - Day 3",
+    "workout_name": "Bodyweight Hand Plank Jack",
+    "series": "3x12",
+    "order_number": 1
+  },
+  {
+    "program_name": "Intermediate Bodyweight Workout",
+    "workout_name": "Bodyweight Hand Plank Jack",
+    "series": "3x30-45s",
+    "order_number": 4
+  },
+  {
+    "program_name": "Chat GPT Bodyweight for Beginnners",
+    "workout_name": "Bodyweight Hand Plank Jack",
+    "series": "3x30s",
+    "order_number": 4
+  },
+  {
+    "program_name": "Ab Workout 2",
+    "workout_name": "Bodyweight Hand Plank Jack",
+    "series": "2x30s",
+    "order_number": 3
+  }
+]

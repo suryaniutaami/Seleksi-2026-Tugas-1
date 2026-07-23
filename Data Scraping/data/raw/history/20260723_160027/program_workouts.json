@@ -1,0 +1,2941 @@
+[
+  {
+    "name": "View Full Body Novice Bodybuilding - Day 1 workout details",
+    "workout_count": 4,
+    "workout": [
+      {
+        "name": "Dumbbell Goblet Squat",
+        "series": "3x10",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Bodyweight Knee Push Ups",
+        "series": "3x10",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Band Pull Apart",
+        "series": "4x15",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Machine Hamstring Curl",
+        "series": "2x8",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/full-body-bodybuilding-workout-day-one",
+      "scraped_at": "2026-07-23T15:22:41+07:00"
+    }
+  },
+  {
+    "name": "View Full Body Novice Bodybuilding - Day 2 workout details",
+    "workout_count": 4,
+    "workout": [
+      {
+        "name": "Machine Pulldown",
+        "series": "2x8",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Elbow Side Plank",
+        "series": "3x15s",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "series": "3x12",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Hip Thrust",
+        "series": "3x12",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/full-body-novice-bodybuilding-workout-day-two",
+      "scraped_at": "2026-07-23T15:22:51+07:00"
+    }
+  },
+  {
+    "name": "View Full Body Novice Bodybuilding - Day 3 workout details",
+    "workout_count": 4,
+    "workout": [
+      {
+        "name": "Hand Plank",
+        "series": "3x12",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Curl",
+        "series": "3x8",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Cable Rope Pushdown",
+        "series": "3x8",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Machine Standing Calf Raises",
+        "series": "4x15",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/full-body-novice-workout-bodybuilding-day-3",
+      "scraped_at": "2026-07-23T15:23:01+07:00"
+    }
+  },
+  {
+    "name": "View The 1 Dumbbell Workout workout details",
+    "workout_count": 4,
+    "workout": [
+      {
+        "name": "Dumbbell Goblet Reverse Lunge",
+        "series": "4x15",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Single Arm Row",
+        "series": "3x10",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Goblet Good Morning",
+        "series": "3x12",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Push Up",
+        "series": "3x10",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/full-body-1-dumbbell-workout",
+      "scraped_at": "2026-07-23T15:23:11+07:00"
+    }
+  },
+  {
+    "name": "View Beginner Dumbbell Workout workout details",
+    "workout_count": 4,
+    "workout": [
+      {
+        "name": "Dumbbell Goblet Squat",
+        "series": "3x10",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Row Bilateral",
+        "series": "3x10",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Forward Lunge",
+        "series": "3x10",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Overhead Press",
+        "series": "3x10",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/beginner-dumbbell-workout",
+      "scraped_at": "2026-07-23T15:23:21+07:00"
+    }
+  },
+  {
+    "name": "View Triceps for Beginners workout details",
+    "workout_count": 2,
+    "workout": [
+      {
+        "name": "Dumbbell Skullcrusher",
+        "series": "3x10",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Cable Rope Pushdown",
+        "series": "2x4-10",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/beginner-tricep-workout",
+      "scraped_at": "2026-07-23T15:23:27+07:00"
+    }
+  },
+  {
+    "name": "View Upper Body for Women (Beginners) workout details",
+    "workout_count": 4,
+    "workout": [
+      {
+        "name": "Cable Lat Prayer",
+        "series": "2x4-10",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Bench Press",
+        "series": "3x12",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Band Pull Apart",
+        "series": "4x20",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Arnold Press",
+        "series": "3x10",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/upper-body-workout-for-women-beginners",
+      "scraped_at": "2026-07-23T15:23:37+07:00"
+    }
+  },
+  {
+    "name": "View Advanced Arms and Abs workout details",
+    "workout_count": 6,
+    "workout": [
+      {
+        "name": "Weighted Forearm Plank",
+        "series": "3x10",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Chin Ups",
+        "series": "3x10",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Cable Rope Skullcrusher",
+        "series": "3x10",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Hanging Knee Raises",
+        "series": "3x10",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Hammer Curl",
+        "series": "3x10",
+        "scrape_metadata": {
+          "dom_index": 4,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Skullcrusher",
+        "series": "3x10",
+        "scrape_metadata": {
+          "dom_index": 5,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/advanced-arms-and-abs",
+      "scraped_at": "2026-07-23T15:23:49+07:00"
+    }
+  },
+  {
+    "name": "View Advanced Kettlebell Workout workout details",
+    "workout_count": 7,
+    "workout": [
+      {
+        "name": "Kettlebell Single Arm Reverse Lunge",
+        "series": "3x10",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Kettlebell Single Arm Row",
+        "series": "3x12",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Kettlebell Russian Twist",
+        "series": "3x10",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Kettlebell Deadlift (Single)",
+        "series": "3x12-15",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Kettlebell Situp",
+        "series": "1x12",
+        "scrape_metadata": {
+          "dom_index": 4,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Kettlebell Concentration Curl",
+        "series": "1x8-12",
+        "scrape_metadata": {
+          "dom_index": 5,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Kettlebell Skull Crusher",
+        "series": "1x8-12",
+        "scrape_metadata": {
+          "dom_index": 6,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/advanced-kettlebell-workout",
+      "scraped_at": "2026-07-23T15:24:03+07:00"
+    }
+  },
+  {
+    "name": "View Beginner Barbell Workout workout details",
+    "workout_count": 4,
+    "workout": [
+      {
+        "name": "Barbell High Bar Squat",
+        "series": "1x8-12",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Bench Press",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Romanian Deadlift",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Bent Over Row",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/beginner-barbell-workout",
+      "scraped_at": "2026-07-23T15:24:13+07:00"
+    }
+  },
+  {
+    "name": "View Intermediate Barbell Workout workout details",
+    "workout_count": 6,
+    "workout": [
+      {
+        "name": "Barbell Bench Press",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Reverse Lunge",
+        "series": "3x6-10",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Overhead Press",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Seated Calf Raise",
+        "series": "4x12-15",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Hip Thrust",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 4,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Bent Over Row",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 5,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/intermediate-barbell-workout",
+      "scraped_at": "2026-07-23T15:24:26+07:00"
+    }
+  },
+  {
+    "name": "View Advanced Barbell Workout workout details",
+    "workout_count": 8,
+    "workout": [
+      {
+        "name": "Barbell Pause Squat",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Landmine Row",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Low Bar Good Morning",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Upright Row",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Calf Jump",
+        "series": "4x12-15",
+        "scrape_metadata": {
+          "dom_index": 4,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Situp",
+        "series": "3x12-15",
+        "scrape_metadata": {
+          "dom_index": 5,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Curl",
+        "series": "3x6-10",
+        "scrape_metadata": {
+          "dom_index": 6,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Skullcrusher",
+        "series": "3x6-10",
+        "scrape_metadata": {
+          "dom_index": 7,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/advanced-barbell-workout",
+      "scraped_at": "2026-07-23T15:24:41+07:00"
+    }
+  },
+  {
+    "name": "View Beginner's Dumbbell Routine - Day 1 workout details",
+    "workout_count": 4,
+    "workout": [
+      {
+        "name": "Dumbbell Bench Press",
+        "series": "3x6-10",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Single Arm Row",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Romanian Deadlift",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Heels Up Goblet Squat",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/beginner-dumbell-routine-day-1",
+      "scraped_at": "2026-07-23T15:24:50+07:00"
+    }
+  },
+  {
+    "name": "View Intermediate Dumbbell Routine - Day 1 workout details",
+    "workout_count": 6,
+    "workout": [
+      {
+        "name": "Dumbbell Chest Fly",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Single Arm Row",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Reverse Lunge",
+        "series": "3x6-10",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Neutral Overhead Press",
+        "series": "3x6-10",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Calf Raise",
+        "series": "4x12-15",
+        "scrape_metadata": {
+          "dom_index": 4,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Wood Chopper",
+        "series": "3x4-8",
+        "scrape_metadata": {
+          "dom_index": 5,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/intermediate-dumbbell-routine-day-1",
+      "scraped_at": "2026-07-23T15:25:03+07:00"
+    }
+  },
+  {
+    "name": "View Advanced Dumbbell Workout workout details",
+    "workout_count": 7,
+    "workout": [
+      {
+        "name": "Dumbbell Bulgarian Split Squat",
+        "series": "3x4-8",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Laying Reverse Fly",
+        "series": "4x12-15",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Romanian Deadlift",
+        "series": "3x6-10",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Calf Raise",
+        "series": "4x12-15",
+        "scrape_metadata": {
+          "dom_index": 4,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Twisting Curl",
+        "series": "3x6-10",
+        "scrape_metadata": {
+          "dom_index": 5,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Skullcrusher",
+        "series": "3x6-10",
+        "scrape_metadata": {
+          "dom_index": 6,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/advanced-dumbbell-workout",
+      "scraped_at": "2026-07-23T15:25:17+07:00"
+    }
+  },
+  {
+    "name": "View Beginner Bodyweight Workout workout details",
+    "workout_count": 5,
+    "workout": [
+      {
+        "name": "Bodyweight Reverse Lunge",
+        "series": "3x6-10",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Forearm Plank",
+        "series": "3x30-45s",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Decline Push Up",
+        "series": "3x6-10",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Supermans",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Glute Bridge",
+        "series": "3x12-15",
+        "scrape_metadata": {
+          "dom_index": 4,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/beginner-bodyweight-workout",
+      "scraped_at": "2026-07-23T15:25:27+07:00"
+    }
+  },
+  {
+    "name": "View Intermediate Bodyweight Workout workout details",
+    "workout_count": 6,
+    "workout": [
+      {
+        "name": "Forward Lunges",
+        "series": "3x12-15",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Push Up",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Elbow Side Plank",
+        "series": "3x15-20",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Hand Plank",
+        "series": "3x30-45s",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Kickbacks",
+        "series": "3x12-20",
+        "scrape_metadata": {
+          "dom_index": 4,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Calf Raises",
+        "series": "3x12-20",
+        "scrape_metadata": {
+          "dom_index": 5,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/intermediate-bodyweight-workout",
+      "scraped_at": "2026-07-23T15:25:40+07:00"
+    }
+  },
+  {
+    "name": "View Advanced Bodyweight Workout workout details",
+    "workout_count": 8,
+    "workout": [
+      {
+        "name": "Chin Ups",
+        "series": "3x12-20",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Calf Raises",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Lateral Lunge",
+        "series": "3x6-10",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Box Dips",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Hollow Hold",
+        "series": "3x15-25",
+        "scrape_metadata": {
+          "dom_index": 4,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Side Plank Reach Through",
+        "series": "3x6-10",
+        "scrape_metadata": {
+          "dom_index": 5,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Nordic Hamstring Curl",
+        "series": "3x6-10",
+        "scrape_metadata": {
+          "dom_index": 6,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Elevated Pike Press",
+        "series": "3x6-10",
+        "scrape_metadata": {
+          "dom_index": 7,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/advanced-bodyweight-workout",
+      "scraped_at": "2026-07-23T15:25:55+07:00"
+    }
+  },
+  {
+    "name": "View Beginner Bodybuilder - Chest and Shoulders workout details",
+    "workout_count": 4,
+    "workout": [
+      {
+        "name": "Barbell Bench Press",
+        "series": "3x6-10",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Incline Bench Press",
+        "series": "2x6-10",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Seated Overhead Press",
+        "series": "2x5-8",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Bayesian Lateral Raise",
+        "series": "2x6-10",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/beginner-bodybuilder-chest-and-shoulders",
+      "scraped_at": "2026-07-23T15:26:05+07:00"
+    }
+  },
+  {
+    "name": "View Beginner Bodybuilder - Leg Day workout details",
+    "workout_count": 5,
+    "workout": [
+      {
+        "name": "Dumbbell Forward Lunge",
+        "series": "2x6-10",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Squat",
+        "series": "3x5-10",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Machine Hamstring Curl",
+        "series": "3x8-10",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Machine Leg Extension",
+        "series": "2x8-10",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Seated Calf Raise",
+        "series": "3x8-10",
+        "scrape_metadata": {
+          "dom_index": 4,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/beginner-bodybuilder-leg-day",
+      "scraped_at": "2026-07-23T15:26:16+07:00"
+    }
+  },
+  {
+    "name": "View Beginner Bodybuilder - Back workout details",
+    "workout_count": 3,
+    "workout": [
+      {
+        "name": "Machine Pulldown",
+        "series": "3x8-10",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Machine Seated Cable Row",
+        "series": "3x8-10",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Deadlift",
+        "series": "3x5-10",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/beginner-bodybuilder-back",
+      "scraped_at": "2026-07-23T15:26:24+07:00"
+    }
+  },
+  {
+    "name": "View Beginner Bodybuilder - Arms workout details",
+    "workout_count": 5,
+    "workout": [
+      {
+        "name": "Barbell Skullcrusher",
+        "series": "3x5-10",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Curl",
+        "series": "3x8-10",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Bench Dips",
+        "series": "3x8-10",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Hammer Curl",
+        "series": "3x8-10",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Machine Cable V Bar Push Downs",
+        "series": "3x8-10",
+        "scrape_metadata": {
+          "dom_index": 4,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/beginner-bodybuilder-arms",
+      "scraped_at": "2026-07-23T15:26:36+07:00"
+    }
+  },
+  {
+    "name": "View Beginner Band Workout workout details",
+    "workout_count": 4,
+    "workout": [
+      {
+        "name": "Band Squat",
+        "series": "3x8-10",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Band Pushup",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Band Row",
+        "series": "3x12-15",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Band Romanian Deadlift",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/beginner-band-workout",
+      "scraped_at": "2026-07-23T15:26:45+07:00"
+    }
+  },
+  {
+    "name": "View Intermediate Band Workout workout details",
+    "workout_count": 6,
+    "workout": [
+      {
+        "name": "Band Spanish Squat",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Band Pullover",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Band Crunch",
+        "series": "3x12-15",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Band Good Morning",
+        "series": "3x12-15",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Band Wood Chopper",
+        "series": "3x6-10",
+        "scrape_metadata": {
+          "dom_index": 4,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Band Single Arm Overhead Press",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 5,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/intermediate-band-workout",
+      "scraped_at": "2026-07-23T15:26:58+07:00"
+    }
+  },
+  {
+    "name": "View Advanced Band Workout workout details",
+    "workout_count": 8,
+    "workout": [
+      {
+        "name": "Band Leg Press",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Band Pushup",
+        "series": "4x8-12",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Band Calf Raise",
+        "series": "4x15-20",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Band Glute Kickback",
+        "series": "4x12-15",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Band Pull Apart",
+        "series": "4x15-20",
+        "scrape_metadata": {
+          "dom_index": 4,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Band Kneeling Single Arm Pulldown",
+        "series": "4x12-15",
+        "scrape_metadata": {
+          "dom_index": 5,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Band Skullcrusher",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 6,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Band Bayesian Curl",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 7,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/advanced-band-workout",
+      "scraped_at": "2026-07-23T15:27:13+07:00"
+    }
+  },
+  {
+    "name": "View Beginner Cable Workout workout details",
+    "workout_count": 4,
+    "workout": [
+      {
+        "name": "Cable Goblet Squat",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Cable Chest Press",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Cable Bar Romanian Deadlift",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Cable Bent Over Bar Pullover",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/beginner-cable-workout",
+      "scraped_at": "2026-07-23T15:27:22+07:00"
+    }
+  },
+  {
+    "name": "View Intermediate Cable Workout workout details",
+    "workout_count": 6,
+    "workout": [
+      {
+        "name": "Cable Goblet Squat",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Cable Bent Over Bar Pullover",
+        "series": "3x12-15",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Cable Pec Fly",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Cable 30 Degree Shrug",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Cable Hamstring Curl",
+        "series": "3x12-15",
+        "scrape_metadata": {
+          "dom_index": 4,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Cable Standing Straight Leg Glute Kickback",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 5,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/intermediate-cable-workout",
+      "scraped_at": "2026-07-23T15:27:37+07:00"
+    }
+  },
+  {
+    "name": "View Full Body Advanced Bodybuilder Workout workout details",
+    "workout_count": 8,
+    "workout": [
+      {
+        "name": "Barbell High Bar Squat",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Arnold Press",
+        "series": "3x6-10",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Push Up",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Chin Ups",
+        "series": "4x4-8",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Cable 30 Degree Shrug",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 4,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Cable Lat Prayer",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 5,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Curl",
+        "series": "3x6-10",
+        "scrape_metadata": {
+          "dom_index": 6,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Cable Rope Pushdown",
+        "series": "3x6-10",
+        "scrape_metadata": {
+          "dom_index": 7,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/full-body-advanced-bodybuilder-workout",
+      "scraped_at": "2026-07-23T15:27:54+07:00"
+    }
+  },
+  {
+    "name": "View Chat GPT Bodyweight for Beginnners workout details",
+    "workout_count": 6,
+    "workout": [
+      {
+        "name": "Push Up",
+        "series": "3x6-10",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Bodyweight Squat",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Bodyweight Reverse Lunge",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Hand Plank",
+        "series": "3x30s",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Burpee",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 4,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Mountain Climber",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 5,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/chat-gpt-bodyweight-for-beginnners",
+      "scraped_at": "2026-07-23T15:28:06+07:00"
+    }
+  },
+  {
+    "name": "View Beginner Glute Workout workout details",
+    "workout_count": 3,
+    "workout": [
+      {
+        "name": "Dumbbell Goblet Squat",
+        "series": "3x8-12",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Hip Thrust",
+        "series": "4x10-15",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Standing Hip Abduction",
+        "series": "2x12-15",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/glute-workouts-for-beginners",
+      "scraped_at": "2026-07-23T15:28:14+07:00"
+    }
+  },
+  {
+    "name": "View Intermediate Glute Workout workout details",
+    "workout_count": 4,
+    "workout": [
+      {
+        "name": "Barbell Squat",
+        "series": "2x12-15",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Hip Thrust",
+        "series": "3x6-10",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Cable Standing Hip Abduction",
+        "series": "3x12-15",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Cable Standing Straight Leg Glute Kickback",
+        "series": "3x12-15",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/glute-workout-for-intermediates",
+      "scraped_at": "2026-07-23T15:28:23+07:00"
+    }
+  },
+  {
+    "name": "View Advanced Glute Workout workout details",
+    "workout_count": 5,
+    "workout": [
+      {
+        "name": "Dumbbell Bulgarian Split Squat",
+        "series": "3x12-15",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Hip Thrust",
+        "series": "3x4-8",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Cable Standing Straight Leg Glute Kickback",
+        "series": "3x10-15",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Cable Standing Hip Abduction",
+        "series": "3x10-15",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Goblet Pulse Squat",
+        "series": "2x20-30",
+        "scrape_metadata": {
+          "dom_index": 4,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/glute-workout-for-advanced",
+      "scraped_at": "2026-07-23T15:28:34+07:00"
+    }
+  },
+  {
+    "name": "View Triceps for Intermediates workout details",
+    "workout_count": 2,
+    "workout": [
+      {
+        "name": "Dumbbell Overhead Tricep Extension",
+        "series": "2x20-30",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Cable Cross Pushdown",
+        "series": "2x6-10",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/intermediate-tricep-workout",
+      "scraped_at": "2026-07-23T15:28:40+07:00"
+    }
+  },
+  {
+    "name": "View Advanced Tricep Workout workout details",
+    "workout_count": 3,
+    "workout": [
+      {
+        "name": "Dumbbell Rolling Tricep Extension",
+        "series": "2x6-10",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Band Pushdown",
+        "series": "2x8-12",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Band Rapunzel Pushdown",
+        "series": "2x8-12",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/advanced-tricep-workout",
+      "scraped_at": "2026-07-23T15:28:48+07:00"
+    }
+  },
+  {
+    "name": "View Push for Beginners workout details",
+    "workout_count": 4,
+    "workout": [
+      {
+        "name": "Dumbbell Bench Press",
+        "series": "2x8-12",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Overhead Press",
+        "series": "3x6-10",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Overhead Tricep Extension",
+        "series": "2x4-8",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Forearm Plank",
+        "series": "3x30-60s",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/beginner-push",
+      "scraped_at": "2026-07-23T15:28:58+07:00"
+    }
+  },
+  {
+    "name": "View Pull for Beginners workout details",
+    "workout_count": 4,
+    "workout": [
+      {
+        "name": "Dumbbell Single Arm Row",
+        "series": "3x30-60s",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Curl",
+        "series": "2x4-8",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Cable High Single Arm Rear Delt Fly",
+        "series": "4x12-15",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Cable Pallof Press",
+        "series": "3x6-10",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/beginner-pull-workout",
+      "scraped_at": "2026-07-23T15:29:07+07:00"
+    }
+  },
+  {
+    "name": "View Legs for Beginners workout details",
+    "workout_count": 4,
+    "workout": [
+      {
+        "name": "Barbell High Bar Squat",
+        "series": "3x6-10",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Machine Hamstring Curl",
+        "series": "2x4-8",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Machine Standing Calf Raises",
+        "series": "4x12-15",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Hip Thrust",
+        "series": "2x6-10",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/beginner-leg-workout",
+      "scraped_at": "2026-07-23T15:29:16+07:00"
+    }
+  },
+  {
+    "name": "View Full Body Bodybuilding - Day 1 workout details",
+    "workout_count": 5,
+    "workout": [
+      {
+        "name": "Barbell Squat",
+        "series": "2x6-10",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Curl",
+        "series": "2x4-8",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "series": "3x6-10",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Overhead Tricep Extension",
+        "series": "2x6-10",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Machine Hamstring Curl",
+        "series": "2x4-8",
+        "scrape_metadata": {
+          "dom_index": 4,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/full-body-bodybuilding-1",
+      "scraped_at": "2026-07-23T15:29:26+07:00"
+    }
+  },
+  {
+    "name": "View Full Body Bodybuilding - Day 2 workout details",
+    "workout_count": 5,
+    "workout": [
+      {
+        "name": "Dumbbell Bulgarian Split Squat",
+        "series": "2x4-8",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Bench Press",
+        "series": "3x4-8",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Cable High Single Arm Rear Delt Fly",
+        "series": "4x12-15",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Machine Pulldown",
+        "series": "3x6-10",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Machine Standing Calf Raises",
+        "series": "4x12-15",
+        "scrape_metadata": {
+          "dom_index": 4,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/full-body-bodybuilding-day-2",
+      "scraped_at": "2026-07-23T15:29:37+07:00"
+    }
+  },
+  {
+    "name": "View Full Body Bodybuilding - Day 3 workout details",
+    "workout_count": 6,
+    "workout": [
+      {
+        "name": "Barbell Romanian Deadlift",
+        "series": "4x12-15",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Cable Chest Press",
+        "series": "3x6-10",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Cable High Single Arm Rear Delt Fly",
+        "series": "4x12-15",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Cable Lat Prayer",
+        "series": "3x6-10",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Plate Full Lateral Raise",
+        "series": "3x6-10",
+        "scrape_metadata": {
+          "dom_index": 4,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Machine Leg Extension",
+        "series": "4x6-10",
+        "scrape_metadata": {
+          "dom_index": 5,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/full-body-bodybuilding-day-3",
+      "scraped_at": "2026-07-23T15:29:49+07:00"
+    }
+  },
+  {
+    "name": "View Legs for Ladies (Beginner) workout details",
+    "workout_count": 4,
+    "workout": [
+      {
+        "name": "Barbell Squat",
+        "series": "4x6-10",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Romanian Deadlift",
+        "series": "3x10",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Single Leg Hip Thrust",
+        "series": "2x10",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Machine Standing Calf Raises",
+        "series": "3x20",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/leg-workout-for-women",
+      "scraped_at": "2026-07-23T15:29:58+07:00"
+    }
+  },
+  {
+    "name": "View Foundational Strength Training Plan - A workout details",
+    "workout_count": 3,
+    "workout": [
+      {
+        "name": "Barbell Squat",
+        "series": "3x20",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Overhead Press",
+        "series": "5x5",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Deadlift",
+        "series": "1x5",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/foundational-strength-training-plan-a",
+      "scraped_at": "2026-07-23T15:30:05+07:00"
+    }
+  },
+  {
+    "name": "View Foundational Strength Training Plan - B workout details",
+    "workout_count": 3,
+    "workout": [
+      {
+        "name": "Barbell Squat",
+        "series": "1x5",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Bench Press",
+        "series": "5x5",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Bent Over Row",
+        "series": "5x5",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/foundational-strength-training-plan-b",
+      "scraped_at": "2026-07-23T15:30:13+07:00"
+    }
+  },
+  {
+    "name": "View Beginner Strength Training Protocol - A workout details",
+    "workout_count": 3,
+    "workout": [
+      {
+        "name": "Barbell Squat",
+        "series": "5x5",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Bench Press",
+        "series": "3x5",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Deadlift",
+        "series": "1x5",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/beginner-strength-protocol-a",
+      "scraped_at": "2026-07-23T15:30:20+07:00"
+    }
+  },
+  {
+    "name": "View Beginner Barbell Strength Protocol B workout details",
+    "workout_count": 3,
+    "workout": [
+      {
+        "name": "Barbell Squat",
+        "series": "1x5",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Overhead Press",
+        "series": "3x5",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Deadlift",
+        "series": "1x1",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/beginner-barbell-strength-protocol-b",
+      "scraped_at": "2026-07-23T15:30:28+07:00"
+    }
+  },
+  {
+    "name": "View Weekly Periodized Strength Program - Week 1 - A workout details",
+    "workout_count": 3,
+    "workout": [
+      {
+        "name": "Barbell Squat",
+        "series": "1x1",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Bench Press",
+        "series": "5x5",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Deadlift",
+        "series": "1x5",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/weekly-periodized-strength-program-week-1-a",
+      "scraped_at": "2026-07-23T15:30:35+07:00"
+    }
+  },
+  {
+    "name": "View Weekly Periodized Strength Program - Week 1 - B workout details",
+    "workout_count": 4,
+    "workout": [
+      {
+        "name": "Barbell Squat",
+        "series": "1x5",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Overhead Press",
+        "series": "3x5",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Chin Ups",
+        "series": "3x12",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Glute Ham Raise",
+        "series": "5x10",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/weekly-periodized-strength-program-week-1-b",
+      "scraped_at": "2026-07-23T15:30:45+07:00"
+    }
+  },
+  {
+    "name": "View Weekly Periodized Strength Program - Week 1 - C workout details",
+    "workout_count": 3,
+    "workout": [
+      {
+        "name": "Barbell Squat",
+        "series": "5x10",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Bench Press",
+        "series": "1x5",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Deadlift",
+        "series": "1x5",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/weekly-periodized-strength-program-week-1-c",
+      "scraped_at": "2026-07-23T15:30:52+07:00"
+    }
+  },
+  {
+    "name": "View Weekly Periodized Strength Program - Week 2 - A workout details",
+    "workout_count": 3,
+    "workout": [
+      {
+        "name": "Barbell Squat",
+        "series": "1x5",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Overhead Press",
+        "series": "5x5",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Deadlift",
+        "series": "1x5",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/weekly-periodized-strength-program-week-2-a",
+      "scraped_at": "2026-07-23T15:31:00+07:00"
+    }
+  },
+  {
+    "name": "View Weekly Periodized Strength Program - Week 2 - B workout details",
+    "workout_count": 4,
+    "workout": [
+      {
+        "name": "Barbell Squat",
+        "series": "1x5",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Bench Press",
+        "series": "3x5",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Chin Ups",
+        "series": "3x12",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Glute Ham Raise",
+        "series": "5x10",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/weekly-periodized-strength-program-week-2-b",
+      "scraped_at": "2026-07-23T15:31:10+07:00"
+    }
+  },
+  {
+    "name": "View Weekly Periodized Strength Program - Week 2 - C workout details",
+    "workout_count": 3,
+    "workout": [
+      {
+        "name": "Barbell Squat",
+        "series": "5x10",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Overhead Press",
+        "series": "1x5",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Barbell Deadlift",
+        "series": "1x5",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/weekly-periodized-strength-program-week-2-c",
+      "scraped_at": "2026-07-23T15:31:17+07:00"
+    }
+  },
+  {
+    "name": "View Beginner Science-Based Chest Workout - 1 workout details",
+    "workout_count": 1,
+    "workout": [
+      {
+        "name": "Dumbbell Decline Guillotine Bench Press",
+        "series": "1x5",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/beginner-science-based-chest-workout-1",
+      "scraped_at": "2026-07-23T15:31:21+07:00"
+    }
+  },
+  {
+    "name": "View Full Body Smith Machine - 1 workout details",
+    "workout_count": 5,
+    "workout": [
+      {
+        "name": "Smith Machine Squat",
+        "series": "1x5",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Smith Machine Calf Raise",
+        "series": "4x15",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Smith Machine Assisted Pullup",
+        "series": "3x8",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Smith Machine Upright Row",
+        "series": "3x8",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Smith Machine Drag Curl",
+        "series": "3x8",
+        "scrape_metadata": {
+          "dom_index": 4,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/full-body-smith-machine-workout-day-1",
+      "scraped_at": "2026-07-23T15:31:36+07:00"
+    }
+  },
+  {
+    "name": "View Full Body Smith Machine - 2 workout details",
+    "workout_count": 6,
+    "workout": [
+      {
+        "name": "Smith Machine Staggered Deadlift",
+        "series": "3x8",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Smith Machine Side Bend",
+        "series": "3x8",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Smith Machine Bench Press",
+        "series": "3x8",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Smith Machine Seated Calf Raise",
+        "series": "4x20",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Smith Machine Hip Thrust",
+        "series": "3x10",
+        "scrape_metadata": {
+          "dom_index": 4,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Smith Machine Inverted Row",
+        "series": "3x10",
+        "scrape_metadata": {
+          "dom_index": 5,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/full-body-smith-machine-2",
+      "scraped_at": "2026-07-23T15:31:50+07:00"
+    }
+  },
+  {
+    "name": "View Core Conditioning workout details",
+    "workout_count": 4,
+    "workout": [
+      {
+        "name": "Situp",
+        "series": "3x10",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Laying Leg Raises",
+        "series": "2x10",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Elbow Side Plank",
+        "series": "3x20s",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Side Bend",
+        "series": "2x12",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/core-conditioning",
+      "scraped_at": "2026-07-23T15:32:00+07:00"
+    }
+  },
+  {
+    "name": "View Ab Workout 1 workout details",
+    "workout_count": 3,
+    "workout": [
+      {
+        "name": "Crunches",
+        "series": "2x12",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Hanging Knee Raises",
+        "series": "3x10",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Bicycle Crunch",
+        "series": "2x30",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/ab-workout-1",
+      "scraped_at": "2026-07-23T15:32:08+07:00"
+    }
+  },
+  {
+    "name": "View Ab Workout 2 workout details",
+    "workout_count": 3,
+    "workout": [
+      {
+        "name": "Cable Rope Kneeling Oblique Crunch",
+        "series": "2x30",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Cable Row Bar Kneeling Crunch",
+        "series": "3x12",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Hand Plank",
+        "series": "2x30s",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/ab-workout-2",
+      "scraped_at": "2026-07-23T15:32:16+07:00"
+    }
+  },
+  {
+    "name": "View Ab Workout 3 workout details",
+    "workout_count": 2,
+    "workout": [
+      {
+        "name": "Laying Leg Raises",
+        "series": "2x30s",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Russian Twist",
+        "series": "3x15",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/ab-workout-3",
+      "scraped_at": "2026-07-23T15:32:22+07:00"
+    }
+  },
+  {
+    "name": "View Senior Three Day Split - Chest Day workout details",
+    "workout_count": 4,
+    "workout": [
+      {
+        "name": "Barbell Bench Press",
+        "series": "3x15",
+        "scrape_metadata": {
+          "dom_index": 0,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Cable Rope Pushdown",
+        "series": "3x10-12",
+        "scrape_metadata": {
+          "dom_index": 1,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Chest Fly",
+        "series": "3x10-12",
+        "scrape_metadata": {
+          "dom_index": 2,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      },
+      {
+        "name": "Dumbbell Arnold Press",
+        "series": "3x10-12",
+        "scrape_metadata": {
+          "dom_index": 3,
+          "selector_workout": "div.lg\\:grid.grid-flow-col.mt-6.hidden button",
+          "selector_series": "dt:text-is('Series'), dt:text-is('Duration')"
+        }
+      }
+    ],
+    "scrape_metadata": {
+      "url": "https://musclewiki.com/workout/senior-three-day-split-chest-day",
+      "scraped_at": "2026-07-23T15:32:31+07:00"
+    }
+  }
+]

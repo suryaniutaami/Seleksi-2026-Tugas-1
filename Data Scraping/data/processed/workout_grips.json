@@ -1,0 +1,5274 @@
+[
+  {
+    "workout_name": "Barbell Calf Raises",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Calf Jump",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Barbell Seated Calf Raise",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Seated Calf Raise",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Barbell Seated Calf Raise",
+    "grip": "Mixed"
+  },
+  {
+    "workout_name": "Barbell Toes Up Calf Raise",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Landmine Calf Raise",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Calf Raise",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Calf Raise",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Seated Calf Raise",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Single Leg Calf Raise",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Single Leg Calf Raise",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Walking Calf Raises",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Calf Raises",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bodyweight Donkey Calf Raise",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bodyweight Single Leg Calf Raise",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Bodyweight Single Leg Calf Raise",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Machine Seated Calf Raises",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Machine Standing Calf Raises",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Machine Plate Loaded Calf Raise",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Machine 45 Degree Calf Raise",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Machine Donkey Calf Raise",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Kettlebell Single Leg Calf Raise",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Single Leg Calf Raise",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Seated Calf Raise",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Seated Calf Raise",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Goblet Calf Raise",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Seated Calf Raise Double",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Single Arm Calf Raise",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Single Arm Calf Raise",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Single Leg Single Arm Calf Raise",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Single Leg Single Arm Calf Raise",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Calves Stretch Variation One",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Calves Stretch Variation Two",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Calves Stretch Variation Three",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cable Bar Calve Raise",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Belt Calf Raise",
+    "grip": "None"
+  },
+  {
+    "workout_name": "TRX Calf Raise",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Stationary Bike",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Stationary Bike",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Jump Rope",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Butt Kick",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cardio Assault Bike Arms Only",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cardio Assault Bike",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cardio Band Press Jacks",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cardio Band Reverse Fly Jacks",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cardio Band Seal Jacks",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cardio Box Quick Feet",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cardio Criss Cross Jacks",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cardio Diamond Hop",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cardio Figure Eight Sprint",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cardio Forward Scissor",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cardio In And Out Forward",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cardio In And Outs",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cardio In In Out Out Shuffle",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cardio Jumping Jacks",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cardio Karaoke",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cardio Lateral Quick Feet",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cardio Lateral Shuffle",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cardio Long Jump",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cardio Long Jump Shuffle Back",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cardio Row Erg Rower Arms Only",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cardio Row Erg Rower Four Stroke Sprint Start",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cardio Row Erg Rower",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cardio Row Erg Rower Legs Only",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cardio Seal Jacks",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cardio Shuttle Sprint",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cardio Single Leg Forward Hop",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cardio Single Leg Lateral Hop",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cardio Skater",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cardio Skater To Single Leg Burpee",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cardio Ski Erg",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cardio Sprint In Place",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cardio Step Out Jacks",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cardio Three Step Heismans",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Curve Treadmill",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Stair Climber",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Treadmill Jog",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Treadmill Sprint",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Treadmill Walk",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Treadmill Backwards Walk",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Treadmill Side Shuffle",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Smith Machine Seated Calf Raise",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Smith Machine Seated Calf Raise",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Smith Machine Seated Calf Raise",
+    "grip": "Mixed"
+  },
+  {
+    "workout_name": "Smith Machine Calf Raise",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Squat",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Step Up",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Curtsy Lunge",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Front Squat Olympic",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Trap Bar Split Squat",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Trap Bar Reverse Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Barbell Step Up Knee Drive",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Front Rack Step Up Knee Drive",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Banded Split Squat",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Banded Back Squat",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Deficit Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Barbell Split Squat",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Step Up Balance",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Tap Pause Squat",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Landmine Alternating Lunge And Twist",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Landmine Alternating Lunge To Chest Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Landmine Curtsy Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Landmine Goblet Curtsy Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Landmine Goblet Lateral Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Landmine Hack Squat",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Landmine Lateral Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Landmine Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Landmine Lunge To Overhead Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Landmine Rotational Lift To Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Landmine Rotational Lift To Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Landmine Sumo Deadlift",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Barbell Front Squat With Straps",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Barbell Kickstand Squat",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Barbell Quad Stomp",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Front Rack Deficit Lunge",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Curtsy Deficit Lunge",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Bulgarian Split Squat",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Goblet Squat",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Goblet Lateral Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Somersault Squat",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Step Up Knee Drive",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Step Up Knee Drive",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Front Rack Step Up Knee Drive",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Front Rack Step Up Knee Drive",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Dumbbell Front Rack Stability Ball Wall Squat",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Stability Ball Wall Squat",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Stability Ball Goblet Wall Squat",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Goblet Curtsy Deficit Lunge",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Front Rack Curtsy Deficit Lunge",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Curtsy Deficit Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Quad Stomp",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Deficit Reverse Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Goblet Deficit Reverse Lunge",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Dumbbell Front Rack Deficit Reverse Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Assisted Bulgarian Split Squat",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Alternating Forward Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Alternating Reverse Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Alternating Lateral Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Goblet Alternating Curtsy Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Swing Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Kickstand Squat",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Dumbbell Box Squat",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Step Up",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Step Up",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Dumbbell Step Up",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Step Up",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Step Up",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Step Up",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Dumbbell Front Rack Step Up",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Front Rack Step Up",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Dumbbell Goblet Step Up",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Dumbbell Side Step Up",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Goblet Side Step Up",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Dumbbell Overhead Squat",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Thruster",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Sumo Squat",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Offset Squat",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Leg Extension",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Dumbbell Heels Up Narrow Goblet Squat",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Heels Up Goblet Squat",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Goblet Pulse Squat",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Front Rack Squat",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Front Rack Pause Squat",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Bodyweight Squat",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Forward Lunges",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bodyweight Step Down",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bodyweight Partial Step Down",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bodyweight Curtsy Step Down",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bodyweight Curtsy Deficit Lunge",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Bodyweight Quad Stomp",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Bodyweight Deficit Reverse Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Wall Sit",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bodyweight Single Leg Squat",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bodyweight Kickstand Squat",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bodyweight Box Squat",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Walking Lunge",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bodyweight Alternating Forward Lunge",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bodyweight Pulse Squat",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bodyweight Swing Lunge",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bodyweight Swingthrough Lunge",
+    "grip": "None"
+  },
+  {
+    "workout_name": "In And Out Jump Squat",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Pole Overhead Squat",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Bodyweight Pop Squat",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bodyweight Alternating Curtsy Lunge",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Bodyweight Alternating Lateral Lunge",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Bodyweight Alternating Reverse Lunges",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Bodyweight Step Up Knee Drive",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Machine Leg Extension",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Machine Leg Press",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Machine Plate Loaded Leg Extension",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Machine Belt Squat",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Machine Hack Squat",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Machine Horizontal Sissy Leg Press",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Machine Horizontal Leg Press",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Machine Pendulum Squat",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Machine Single Leg Leg Press",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Machine Squat Press",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Horizontal Hack Squat",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Medicine Ball Overhead Squat",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Step Up",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Heels Up Goblet Squat",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Somersault Squat",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Single Arm Step Up Knee Drive",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Front Rack Step Up Knee Drive",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Kettlebell Single Arm Front Rack Step Up Knee Drive",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Thruster",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Front Rack Squat",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Lateral Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Reverse Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Single Arm Front Rack Forward Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Single Arm Front Rack Reverse Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Sumo Deadlift",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Step Up Double",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Single Arm Front Rack Step Up",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Front Rack Step Up",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Single Arm Step Up Balance",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Box Squat",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Kickstand Squat",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Kettlebell Swing Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Alternating Curtsy Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Alternating Lateral Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Alternating Reverse Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Alternating Forward Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Assisted Bulgarian Split Squat",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Front Rack Deficit Reverse Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Deficit Reverse Lunge",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Quad Stomp",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Quads Stretch Variation One",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Quads Stretch Variation Two",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Quads Stretch Variation Three",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Quads Stretch Variation Four",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cable Goblet Squat",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Split Squat",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Standing Leg Extension",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cable Belt Squat",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cable Belt Split Squat",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cable Seated Leg Extension",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cable Zercher Squat",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Band Leg Press",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Mini Band Squat",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Band Squat Hold Single Arm Row",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Squat",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Squat Reach",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Squat Hold Reach",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Curtsy Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Squat Hold Curl",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Lateral Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Forward Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Reverse Lunge Twist",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Reverse Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Overhead Squat",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Deficit Lunge",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Plate Overhead Walking Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Squat Hold",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Thruster",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Weighted Wall Sit",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Plate Goblet Deficit Reverse Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "TRX Curtsy Lunge",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "TRX Curtsy Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "TRX Jumping Squat",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "TRX Jumping Squat",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "TRX Lateral Lunge",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "TRX Lateral Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "TRX Reverse Lunge",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "TRX Reverse Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "TRX Split Squat",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "TRX Split Squat",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "TRX Squat",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "TRX Squat",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Bosu Ball Lateral Lunge",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bosu Ball Reverse Lunge",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bosu Ball Split Squat",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bosu Ball Squat",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Smith Machine Squat",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Smith Machine Sissy Squat",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Smith Machine Sissy Squat",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Smith Machine Leg Press",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Smith Machine Split Squat",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Smith Machine Reverse Lunge",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Roll Outs",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Situp",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Landmine Hollow Hold",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Barbell Larsen Bench Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Hooklying Bench Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Russian Twist",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Hollow Hold",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Hollow Hold",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Crunch",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Plank IYTW",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Suitcase Crunch",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Half Kneeling Wood Chopper",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Renegade Row",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Pushup to Renegade Row",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Larsen Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Larsen Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Crunches",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Laying Leg Raises",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Long Lever Plank",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Hanging Knee Raises",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Hanging Knee Raises",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Forearm Plank",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Forearm Plank",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Bodyweight Feet Down Russian Twist",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Bodyweight Stability Ball Crunch",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Stability Ball Stir The Pot",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Stability Ball Knee Tuck",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Stability Ball Pike",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Stability Ball Windshield Wiper",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Stability Ball V Up Pass",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Hanging L Sit",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Bodyweight Plank Arm Lift",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bodyweight Plank Jack",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Bodyweight Hanging Knee Tuck",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Bodyweight Hanging L Sit",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Reverse Crunch Kick Up",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Eccentric Dragonflag",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Laying Alternating Leg Raise",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Laying Bent Leg Raise",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Alternating Bent Leg Raise",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Scissor Kick",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Sideways Scissor Kick",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Reach And Catch",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Frog Crunch",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Frog Sit Up",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Elbow Plank Mountain Climber",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Slow Tempo Mountain Climber",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Switch Jump Mountain Climber",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Slalom Mountain Climber",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Jumping Mountain Climber",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Ring Standing Roll Out",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Machine Crunch",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Machine Plate Loaded Crunch",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Rower Pike",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Medicine Ball Slam",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Medicine Ball Dead Bug",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Kettlebell Windmill",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Windmill",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Larsen Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Single Arm Larsen Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Windmill Bottom Hand",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Windmill Bottom Hand",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Front Rack Single Arm Lateral Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Front Rack Reverse Lunge (Double)",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Abdominals Stretch Variation One",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Abdominals Stretch Variation Two",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Abdominals Stretch Variation Three",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Abdominals Stretch Variation Four",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cable Row Bar Kneeling Crunch",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Standing Crunch",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Standing Low To High Wood Chopper",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Standing High To Low Wood Chopper",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Rope Standing Crunch",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Bar Standing Crunch",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Kneeling High To Low Wood Chopper",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Bar Kneeling Crunch",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Rope Kneeling Crunch",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Rope Kneeling Oblique Crunch",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Mini Band Walking Mountain Climber",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Mini Band Mountain Climber",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Plate Overhead Carry",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Russian Twist",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Situp",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Weighted Forearm Plank",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Weighted Hand Plank",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Plate Hollow Hold",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Weighted Plank Up Down",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "TRX Ab Rollout",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "TRX Forearm Plank",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "TRX Forearm Plank",
+    "grip": "None"
+  },
+  {
+    "workout_name": "TRX Hand Plank",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "TRX Kneeling Ab Rollout",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "TRX Knee Tuck",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "TRX Mountain Climber",
+    "grip": "None"
+  },
+  {
+    "workout_name": "TRX Pike",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Urdhva Dhanurasana Wheel Pose",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cobra Pose",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Bosu Ball Hand Plank",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Bosu Ball Plank Glute Kickback",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Bosu Ball Situp",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Bosu Ball Toe Tap",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bosu Ball Up And Over",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bosu Ball Walkover Pushup",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Smith Machine Hanging Knee Tuck",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Smith Machine Reverse Crunch Hip Raise",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Smith Machine Situp",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Barbell Landmine Side Bend",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Landmine Kneeling Twist",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Landmine Oblique Twist",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Landmine Russian Twist",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Wood Chopper",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Kneeling Wood Chopper",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Overhead Side Bend",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Overhead Side Bend",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Side Plank Up Down",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Hand Side Plank",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Hand Side Plank",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Elbow Side Plank",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Dumbbell Long Lever Russian Twist",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Side Bend",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Feet Down Russian Twist",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Bodyweight Russian Twist",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Side Plank Up Down",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Side Plank Reach Through",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Elbow Side Plank",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Hand Side Plank",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Hand Side Plank Reach Through",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Alternating Heel Touch",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Oblique Crunch",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Oblique Jackknife",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Windshield Wiper",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bodyweight Thoracic Spine Rotation",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Kettlebell Wood Chopper",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Gorilla Row",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Single Arm Farmers Walk",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Pallof Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Wood Chopper",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Half Kneeling High To Low Wood Chopper",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Half Kneeling Low To High Wood Chopper",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Half Kneeling Wood Chopper",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Oblique Pushdown",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Pallof Press Rotation",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Side Bend",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Kneeling Low To High Wood Chopper",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Kneeling Oblique Crunch",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Kneeling Pallof Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Kneeling Pallof Press To Wood Chopper",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Kneeling Wood Chopper",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Band Pallof Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Band Side Bend",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Band Side Bend",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Band Pallof Press To Wood Chopper",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Pinch Grip Side Bend",
+    "grip": "Pinch Grip"
+  },
+  {
+    "workout_name": "Plate Standing Twist",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Wood Chopper",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "TRX Forearm Side Plank",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "TRX Forearm Side Plank",
+    "grip": "None"
+  },
+  {
+    "workout_name": "TRX Oblique Crunch",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bosu Ball Hand Sideplank",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Bosu Ball Hand Sideplank Hip Abduction",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Bosu Ball Wood Chopper",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Smith Machine Oblique Crunch",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Smith Machine Side Plank Up Down",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Smith Machine Side Bend",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Pilates Single Arm Rotations Back Rowing Seated Row",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Farmers Carry",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Farmers March",
+    "grip": "Pinch Grip"
+  },
+  {
+    "workout_name": "Kettlebell Single Arm Farmers March",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Walking Farmers March",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Pinch Grip Farmer's Carry",
+    "grip": "Pinch Grip"
+  },
+  {
+    "workout_name": "Plate Pinch Grip Deadlift",
+    "grip": "Pinch Grip"
+  },
+  {
+    "workout_name": "Barbell Bent Over Row",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Barbell Reverse Curl",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Landmine Row",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Long Landmine Row",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Barbell Meadows Row",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Pronated Row",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "EZ Bar Reverse Preacher Curl",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Ez Bar Reverse Curl",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Ez Bar Reverse Spider Curl",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Wrist Extension",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Wrist Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Dumbbell Row Unilateral",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Reverse Curl",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Incline Reverse Curl",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Incline Zottman Curl",
+    "grip": "Rotating"
+  },
+  {
+    "workout_name": "Dumbbell Bench Wrist Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Bench Wrist Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Dumbbell Wrist Supinations Pronations",
+    "grip": "Rotating"
+  },
+  {
+    "workout_name": "Dumbbell Weighted Chin Ups",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Dumbbell Farmer Walk",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Bench Braced Reverse Incline Curl",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Bench Braced Reverse Incline Curl",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Incline Reverse Curl",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Standing Single Arm Reverse Curl",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Zottman Curl",
+    "grip": "Rotating"
+  },
+  {
+    "workout_name": "Dumbbell Seated Reverse Curl",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Seated Single Arm Reverse Curl",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Seated Zottman Curl",
+    "grip": "Rotating"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Pendlay Row",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Rear Delt Row",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Dumbbell Seated Single Arm Zottman Curl",
+    "grip": "Rotating"
+  },
+  {
+    "workout_name": "Chin Ups",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Inverted Row",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Inverted Row",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Bodyweight Overhand Inverted Row",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Bodyweight Standing Inverted Row",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Bodyweight Underhand Inverted Row",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Dead Hang",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "L Sit Chin Up",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Gironda Chin Up",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Ring Chin Up",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Ring Twisting Chin Up",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Kettlebell Single Arm Row",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Reverse Curl",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Bench Wrist Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Kettlebell Single Arm Reverse Curl",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Alternating Row",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Row",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Single Arm Row On Bench",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Forearms Stretch Variation One",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Forearms Stretch Variation Two",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Forearms Stretch Variation Three",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Forearms Stretch Variation Four",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cable Wrist Extension",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Wrist Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Cable Bar Reverse Grip Curl",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Bar Reverse Grip Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Cable Seated Bayesian Reverse Curl",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Reverse Bayesian Curl",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Braced Wrist Extension",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable High Single Arm Reverse Bayesian Curl",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable High Single Arm Reverse Rolling Curl",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Band Bayesian Reverse Curl",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Mini Band Kneeling Row",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Mini Band Bent Over Row",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Band Single Arm Bent Over Row",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Band Bent Over Row",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Plate Single Leg Pinch Grip Deadlift",
+    "grip": "Pinch Grip"
+  },
+  {
+    "workout_name": "Plate Pinch Grip Row",
+    "grip": "Pinch Grip"
+  },
+  {
+    "workout_name": "Plate Staggered Pinch Grip Deadlift",
+    "grip": "Pinch Grip"
+  },
+  {
+    "workout_name": "Plate Weighted Inverted Row",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Weighted Chin Ups",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Plate Weighted Dead Hang",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "TRX Reverse Curl",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Smith Machine Inverted Row",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Smith Machine Inverted Row",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Barbell Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Ez Bar Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Ez Bar Close Grip Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Ez Bar Drag Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Ez Bar Spider Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "EZ Bar Preacher Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Barbell Drag Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Landmine T Bar Rows",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Landmine Concentration Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Landmine Bicep Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Barbell Supinated Row",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Barbell Supinated Pendlay Row",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Barbell Pronated Pendlay Row",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Dumbbell Hammer Curl",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Rear Delt Row",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Incline Hammer Curl",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Preacher Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Spider Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Dumbbell Spider Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Dumbbell Twisting Curl",
+    "grip": "Rotating"
+  },
+  {
+    "workout_name": "Dumbbell Concentration Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Dumbbell Alternating Pendlay Row",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Kneeling Single Arm Row",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Laying Incline Row",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Pendlay Row",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Row",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Row Knee",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Lawnmower Row",
+    "grip": "Rotating"
+  },
+  {
+    "workout_name": "Dumbbell Knee Lawnmower Row",
+    "grip": "Rotating"
+  },
+  {
+    "workout_name": "Dumbbell Supinated Row",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Dumbbell Preacher Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Dumbbell Incline Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Dumbbell Laying Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Dumbbell Bench Braced Flat Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Dumbbell Bench Braced Hammer Flat Curl",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Bench Braced Hammer Incline Curl",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Bench Braced Incline Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Dumbbell Bench Braced Reverse Flat Curl",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Bench Braced Rolling Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Bench Braced Hammer Flat Curl",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Bench Braced Hammer Incline Curl",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Bench Braced Incline Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Bench Braced Reverse Flat Curl",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Drag Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Dumbbell Incline Twisting Curl",
+    "grip": "Rotating"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Incline Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Incline Hammer Curl",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Incline Twisting Curl",
+    "grip": "Rotating"
+  },
+  {
+    "workout_name": "Dumbbell Standing Single Arm Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Dumbbell Standing Single Arm Hammer Curl",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Standing Single Arm Twisting Curl",
+    "grip": "Rotating"
+  },
+  {
+    "workout_name": "Dumbbell Seated Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Dumbbell Seated Hammer Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Dumbbell Seated Single Arm Hammer Curl",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Hammer Curl",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Seated Hammer Curl",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Seated Single Arm Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Dumbbell Flat Preacher Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Bodyweight Close Grip Inverted Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Bodyweight Inverted Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Bodyweight Concentration Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Bodyweight Assisted Chin Up",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Bodyweight Assisted Pull Up",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Bodyweight Assisted Mixed Grip Pullup",
+    "grip": "Mixed"
+  },
+  {
+    "workout_name": "Bodyweight Assisted Gironda Chin Up",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Ring Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Ring Row",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Machine Seated Cable Row",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Machine Seated Cable Row",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Machine Seated Cable Row",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Machine Bicep Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Machine Seated Plate Loaded Preacher Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Machine Standing Plate Loaded Preacher Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Machine Assisted Pull Up",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Machine Assisted Narrow Pull Up",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Machine Assisted Neutral Chin Up",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Machine Assisted Chin Up",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Machine Underhand Row",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Machine Plate Loaded Pulldown",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Preacher Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Kettlebell Concentration Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Kettlebell Single Arm Pendlay Row",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Single Arm Rear Delt Row",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Drag Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Biceps Stretch Variation One",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Biceps Stretch Variation Two",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Biceps Stretch Variation Three",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Biceps Stretch Variation Four",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Biceps Stretch Variation Five",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cable Single Arm Bayesian Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Cable Single Arm Hammer Curl",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Pull In",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Pull Around",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Standing Single Arm Cross Rear Delt Row",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable High Single Arm Rolling Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Cable High Single Arm Hammer Rolling Curl",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable High Single Arm Hammer Bayesian Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Cable Seated Bayesian Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Cable Bar Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Cable Rope Hammer Curl",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Hammer Bayesian Curl",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Bayesian Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Cable High Bayesian Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Band Kneeling Single Arm Pulldown",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Band High Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Band High Hammer Curl",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Band High Reverse Curl",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Band Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Band Reverse Curl",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Band Single Arm Pulldown",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Band Single Arm Row",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Band Pull Around",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Bicep Curl",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Curl To Overhead Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Curl To Overhead Press To Tricep Extension",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "TRX Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "TRX Rotating Row",
+    "grip": "Rotating"
+  },
+  {
+    "workout_name": "TRX Single Arm row",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Bosu Ball Row",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Smith Machine Drag Curl",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Smith Machine Underhand Row",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Smith Machine Overhand Row",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Overhead Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Incline Bench Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Upright Row",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Ez Bar Upright Row",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Ez Bar Overhead Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Ez Bar Cuban Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Behind The Neck Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Hang Clean And Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Clean And Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Clean And Jerk",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Power Snatch",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Split Jerk",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Full Front Raise",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Bradford Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Seated Full Front Raise",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Behind The Neck Seated Overhead Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell High Incline Bench Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Incline Bench Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Incline Chest Flys",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Front Raise",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Seated Overhead Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Bayesian Lateral Raise",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Decline Neutral Bench Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Neutral Bench Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Neutral Incline Bench Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Neutral Seated Overhead Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Seated Arnold Press",
+    "grip": "Rotating"
+  },
+  {
+    "workout_name": "Dumbbell Alternating Arnold Press",
+    "grip": "Rotating"
+  },
+  {
+    "workout_name": "Dumbbell Alternating Overhead Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Arnold Press",
+    "grip": "Rotating"
+  },
+  {
+    "workout_name": "Dumbbell Neutral Alternating Overhead Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Neutral Overhead Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Overhead Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Push Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Push Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Arnold Press",
+    "grip": "Rotating"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Neutral Overhead Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Overhead Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Laying Lateral Raise",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Laying Lateral Raise",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Upright Row",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Upright Row",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Seated Lateral Raise",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Bent Arm Lateral Raise",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell High Incline Bench Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Standing Bayesian Lateral Raise",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Cuban Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Full Front Raise",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Full Lateral Raise",
+    "grip": "Rotating"
+  },
+  {
+    "workout_name": "Dumbbell Half Kneeling Overhead Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Half Kneeling Single Arm Overhead Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Incline Front Raise",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Internal Rotation",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Seated Single Arm Arnold Press",
+    "grip": "Rotating"
+  },
+  {
+    "workout_name": "Dumbbell Seated Y Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Six Way Lateral Raise",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Y Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Laying Incline Lateral Raise",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Laying Incline Lateral Raise",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Clean And Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Hang Clean And Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Neutral High Incline Bench Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Seated Full Lateral Raise",
+    "grip": "Rotating"
+  },
+  {
+    "workout_name": "Dumbbell Seated Single Arm Full Lateral Raise",
+    "grip": "Rotating"
+  },
+  {
+    "workout_name": "Dumbbell Seated Single Arm Lateral Raise",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Clean And Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Hang Clean And Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Push Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Elevated Pike Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Ring Standing Pushup",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Bodyweight Pike Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Machine Plate Loaded Front Military Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Machine Neutral Overhead Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Machine Overhand Overhead Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Squat Clean And Jerk",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Single Arm Push Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Single Arm Hang Clean And Jerk",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Single Arm Clean And Jerk",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Hang Squat Clean And Jerk",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Hang Clean And Jerk",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Clean And Jerk",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell High Incline Bench Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Incline Bench Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Seated Overhead Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Bottoms Up Single Arm Overhead Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Bottoms Up Overhead Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Kneeling Bottoms Up Overhead Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Hang Clean And Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Shoulders Stretch Variation One",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Shoulders Stretch Variation Two",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Shoulders Stretch Variation Three",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Alternating Pole Rotation",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Pole Rotation",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Chest Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Low Single Arm Lateral Raise",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Upright Row",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Behind The Back Lateral Raise",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Standing Single Arm Chest Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Standing Single Arm Incline Chest Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Internal Rotation",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Rope Upright Row",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Cable Rope Front Raise",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Rope Mid Lateral Raise",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Rope Single Arm Low Lateral Raise",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Band Mid Lateral Raise",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Band Overhead Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Band Upright Row",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Band Single Arm Lateral Raise",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Car Driver",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Front Raise",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Halo",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Overhead Press To Tricep Extension",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Full Lateral Raise",
+    "grip": "Rotating"
+  },
+  {
+    "workout_name": "Plate Lateral Raise",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Reach",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "TRX I Raise",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "TRX Pushup",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "TRX Y Raise",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Bosu Ball Pike Pushup",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Smith Machine Upright Row",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Smith Machine Bench Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Smith Machine Incline Bench Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Smith Machine Seated Overhead Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Bench Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Floor Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Guillotine Incline Bench Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Guillotine High Incline Bench Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Reverse Grip Bench Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Landmine Single Arm Chest Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Spoto Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Bench Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Chest Fly",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Decline Alternating Single Arm Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Decline Bench Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Decline Chest Fly",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Decline Guillotine Bench Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Decline Single Arm Bench Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Decline Squeeze Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Guillotine Bench Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Guillotine Incline Bench Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Incline Chest Fly",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Internally Rotated Chest Fly",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Internally Rotated Incline Chest Fly",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Squeeze Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Elevated Pushup",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Alternating Single Arm Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Reverse Grip Bench Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Weighted Dip",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Floor Fly",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Internally Rotated Floor Fly",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Internally Rotated Single Arm Floor Fly",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Chest Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Floor Fly",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm High Incline Chest Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Incline Chest Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Push Up",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Box Dips",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Stability Ball Push Up",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Leg Raised Push Up",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Bodyweight Hands Up Push Ups",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Ring Standing Chest Fly",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Ring Standing Archer Pushup",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Bodyweight Box Assisted Dips",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Bodyweight Knee Push Ups",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Bodyweight Incline Knee Push Up",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Bodyweight Elevated Push Up",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Burpee",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Machine Bent Arm Pec Fly",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Machine Plate Loaded Low Incline Bench Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Machine Plate Loaded Decline Chest Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Machine Plate Loaded Incline Chest Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Medicine Ball Pushup",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Single Arm Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Walkover Pushup",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Floor Fly",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Single Arm Floor Fly",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Single Arm Chest Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Single Arm Incline Chest Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Single Arm High Incline Chest Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Incline Guillotine Bench Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Chest Stretch Variation One",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Chest Stretch Variation Two",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Chest Stretch Variation Three",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Chest Stretch Variation Four",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cable Pec Fly",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Alternating Bench Chest Fly",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Alternating Decline Bench Chest Fly",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Alternating Bench Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Decline Press Around",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Incline Press Around",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Incline Fly Around",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Standing Single Arm Internally Rotated Chest Fly",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Standing Single Arm Chest Fly",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Standing Single Arm Internally Rotated Incline Chest Fly",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Decline Bench Chest Fly",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Decline Bench Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Braced Single Arm Chest Fly",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Braced Single Arm Chest Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Braced Single Arm Internally Rotated Chest Fly",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Standing Single Arm Incline Chest Fly",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Band Single Arm Internally Rotated Chest Fly",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Band Chest Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Band Internally Rotated Chest Fly",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Band Floor Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Band Bench Fly",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Band Bench Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Band Press Around",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Plate Deficit Pushup",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Plate Glute Bridge to Chest Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Weighted Push Ups",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Weighted Knee Push Ups",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Plate Weighted Dip",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "TRX Pec Fly",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Bosu Ball Offset Pushup",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Bosu Ball Offset Pushup",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Bosu Ball Pushup",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Smith Machine Guillotine Bench Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Silverback Shrug",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Silverback Shrug",
+    "grip": "Mixed"
+  },
+  {
+    "workout_name": "Barbell Shrug",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Z Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell High Pull",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Snatch Grip High Pull",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Behind The Back 30 Degree Shrug",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Barbell Behind The Back Shrug",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell 30 Degree Shrug",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Ez Bar Shrug",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Trap Bar Shrug",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Silverback Shrug",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Silverback Shrug",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Shrug",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Seated Shrug",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Laying 30 Degree Shrug",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Laying 30 Degree Shrug",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Laying Silverback Shrug",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Laying Silverback Shrug",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Machine Seated Shrug",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Machine Standing Shrug",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Incline Shrug",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Shrug",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Swing To Upright Row",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Traps Stretch Variation One",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Traps Stretch Variation Two",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Traps Stretch Variation Three",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cable Silverback Shrug",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable 30 Degree Shrug",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Single Arm 30 Degree Shrug",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Overhead Shrug",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Bosu Ball Pike Shrug",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Barbell Stiff Leg Deadlifts",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Stiff Leg Deadlifts",
+    "grip": "Mixed"
+  },
+  {
+    "workout_name": "Barbell Staggered Deadlift",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Low Bar Good Morning",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Snatch Grip Deadlift",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Snatch Grip Romanian Deadlift",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Snatch Grip Romanian Deadlift",
+    "grip": "Mixed"
+  },
+  {
+    "workout_name": "Barbell Zercher Good Morning",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Landmine Romanian Deadlift",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Trap Bar Romanian Deadlift",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Trap Bar Staggered Romanian Deadlift",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Romanian Deadlift",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Romanian Deadlift",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Goblet Good Morning",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Leg Curl",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Dumbbell Single Leg Single Arm Deadlift",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Single Leg Single Arm Deadlift",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Single Leg Stiff Leg Deadlift",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Single Leg Stiff Leg Deadlift",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Staggered Deadlift",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Staggered Deadlift",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Swing",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Swing",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Cross Body Romanian Deadlift",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Cross Body Romanian Deadlift",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Staggered Waiters Bow",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Nordic Hamstring Curl",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bodyweight Reverse Lunge",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Hamstring Bridge Isometric Open Angle",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Hamstring Bridge With Elevated Legs Box Bilateral",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Hamstring Bridge With Elevated Legs Box Unilateral",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Slider Hamstring Curl Single Leg",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Single Leg Slider Hamstring Curl 2",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Slider Hamstring Curl Eccentric",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bodyweight Standing Hamstring Curl",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bodyweight Standing Hamstring Curl Isometric",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Slider Hamstring Curl",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bodyweight Single Leg Balance Stable",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bodyweight Staggered Waiters Bow",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Bodyweight Stability Ball Hyperextension",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Stability Ball Hamstring Curl",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Stability Ball Reverse Hyperextension",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Machine Hamstring Curl",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Machine Seated Hamstring Curl",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Machine Plate Loaded Kneeling Hamstring Curl",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Machine Reverse Hyperextension",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Swing",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Single Leg Deadlift",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Deadlift (Single)",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Staggered Waiters Bow",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Staggered Swing",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Staggered Swing",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Hamstrings Stretch Variation One",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Hamstrings Stretch Variation Two",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Hamstrings Stretch Variation Three",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Hamstrings Stretch Variation Four",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cable Bar Romanian Deadlift",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Single Leg Deadlift",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Pull Through",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Elevated Deadlift",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Bar Staggered Romanian Deadlift",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Zercher Good Morning",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cable Single Leg Laying Leg Curl",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cable Seated Leg Curl",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Band Romanian Deadlift",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Plate Deadlift",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Good Morning Anterior",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Good Morning",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Single Leg Deadlift",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Staggered Deadlift",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Staggered Waiters Bow",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "TRX Hamstring Curl",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Smith Machine Staggered Deadlift",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Smith Machine Sumo Romanian Deadlift",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Smith Machine Romanian Deadlift",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Hip Thrust",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Hip Thrust",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Barbell Hip Thrust",
+    "grip": "Mixed"
+  },
+  {
+    "workout_name": "Barbell Deadlift",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Deadlift",
+    "grip": "Mixed"
+  },
+  {
+    "workout_name": "Barbell Glute Bridge",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Glute Bridge",
+    "grip": "Mixed"
+  },
+  {
+    "workout_name": "Barbell Heels Up Back Squat",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Heels Up Front Squat",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Barbell Lateral Lunge",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Pause Box Squat",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Pause Squat",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Reverse Deadlift",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Reverse Deadlift",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Barbell Reverse Lunge",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Side Step Up",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Feet Elevated Figure Four Glute Bridge",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Feet Elevated Figure Four Glute Bridge",
+    "grip": "Mixed"
+  },
+  {
+    "workout_name": "Barbell Feet Elevated Glute Bridge",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Feet Elevated Glute Bridge",
+    "grip": "Mixed"
+  },
+  {
+    "workout_name": "Barbell Feet Elevated Single Leg Glute Bridge",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Feet Elevated Single Leg Glute Bridge",
+    "grip": "Mixed"
+  },
+  {
+    "workout_name": "Barbell Feet Elevated Staggered Glute Bridge",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Feet Elevated Staggered Glute Bridge",
+    "grip": "Mixed"
+  },
+  {
+    "workout_name": "Landmine Glute Kick Back",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Barbell Figure Four Hip Thrust",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Barbell Single Leg Hip Thrust",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Single Leg Hip Thrust",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Barbell Figure Four Heels Elevated Hip Thrust",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Barbell Heels Elevated Hip Thrust",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Heels Elevated Hip Thrust",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Barbell Heels Elevated Hip Thrust",
+    "grip": "Mixed"
+  },
+  {
+    "workout_name": "Barbell Single Leg Heels Elevated Hip Thrust",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Single Leg Heels Elevated Hip Thrust",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Barbell Sumo Pause Deadlift",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Sumo Pause Deadlift",
+    "grip": "Mixed"
+  },
+  {
+    "workout_name": "Barbell Jefferson Deadlift",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Jefferson Deadlift",
+    "grip": "Mixed"
+  },
+  {
+    "workout_name": "Barbell Conventional Pause Deadlift",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Conventional Pause Deadlift",
+    "grip": "Mixed"
+  },
+  {
+    "workout_name": "Barbell Block Conventional Deadlift",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Block Conventional Deadlift",
+    "grip": "Mixed"
+  },
+  {
+    "workout_name": "Barbell Deficit Conventional Deadlift",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Deficit Conventional Deadlift",
+    "grip": "Mixed"
+  },
+  {
+    "workout_name": "Barbell Banded Deadlift",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Banded Deadlift",
+    "grip": "Mixed"
+  },
+  {
+    "workout_name": "Trap Bar Deficit Deadlift",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Trap Bar Deficit Deadlift",
+    "grip": "Mixed"
+  },
+  {
+    "workout_name": "Trap Bar Pause Deadlift",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Trap Bar Pause Deadlift",
+    "grip": "Mixed"
+  },
+  {
+    "workout_name": "Dumbbell Single Leg Heels Elevated Hip Thrust",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Single Leg Heels Elevated Hip Thrust",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Stability Ball Hip Thrust",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Stability Ball Hip Thrust",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Stability Ball Hip Thrust",
+    "grip": "Mixed"
+  },
+  {
+    "workout_name": "Stability Ball Glute Bridge",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Stability Ball Glute Bridge",
+    "grip": "Mixed"
+  },
+  {
+    "workout_name": "Stability Ball Straight Leg Glute Bridge",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Stability Ball Single Leg Hip Thrust",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Stability Ball Single Leg Hip Thrust",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Bodyweight Feet Elevated Staggered Glute Bridge",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bodyweight Alternating Jump Lunge",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Bodyweight Alternating Jump Lunge",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Bodyweight Figure Four Heels Elevated Hip Thrust",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Bodyweight Figure Four Heels Elevated Hip Thrust",
+    "grip": "Mixed"
+  },
+  {
+    "workout_name": "Bodyweight Heels Elevated Hip Thrust",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bodyweight Lateral Lunge Jump",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Bodyweight Hip Abduction",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Glute Bridge Isometric Hold Single Alternate",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bodyweight Ninety Ninety Hip Stretch",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Gluteator",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Machine Hip Abduction",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Machine Hip And Glute Abduction",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Machine Hip And Glute Kickback",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Machine Plate Loaded Hip Thrust",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Machine Glute Kickback",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Kettlebell Alternating Swing",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Clean And Press",
+    "grip": "Rotating"
+  },
+  {
+    "workout_name": "Kettlebell Conventional Deadlift (Double)",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Snatch (Double)",
+    "grip": "Rotating"
+  },
+  {
+    "workout_name": "Kettlebell Swing (Double)",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Figure Four Hip Thrust",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Kettlebell Forward Lunge (Double)",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Front Rack Curtsy Lunge (Double)",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Front Rack Forward Lunge (Double)",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Front Rack Lateral Lunge (Double)",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Full Swing",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Romanian Deadlift",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Single Arm Clean And Press",
+    "grip": "Rotating"
+  },
+  {
+    "workout_name": "Kettlebell Single Arm Snatch",
+    "grip": "Rotating"
+  },
+  {
+    "workout_name": "Kettlebell Single Arm Swing",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Staggered Deadlift",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Staggered Deadlift",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Glutes Stretch Variation One",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Glutes Stretch Variation Two",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Glutes Stretch Variation Three",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cable Standing Hip Abduction",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Band Hip Abduction",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Band Hip Adduction",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Mini-Band Clamshell",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Banded Side Walks",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Mini Band Plank Glute Kickback",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Mini Band Laying Glute Bridge Abduction",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Mini Band Laying Glute Bridge Abduction",
+    "grip": "Mixed"
+  },
+  {
+    "workout_name": "Mini Band Glute Bridge",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Mini Band Glute Bridge",
+    "grip": "Mixed"
+  },
+  {
+    "workout_name": "Mini Band Fire Hydrant",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Clean",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Glute Bridge to Pullover",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Hip Abduction",
+    "grip": "None"
+  },
+  {
+    "workout_name": "TRX Glute Bridge",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bosu Ball Hip Thrust",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bosu Ball Single Leg Elevated Glute Bridge",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bosu Ball Single Leg Hip Thrust",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Smith Machine Glute Kickback",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Smith Machine Single Leg Hip Thrust",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Smith Machine Hip Thrust",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Smith Machine Hip Thrust",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Smith Machine Hip Thrust",
+    "grip": "Mixed"
+  },
+  {
+    "workout_name": "Barbell Close Grip Bench Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell J M Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Tricep Guillotine Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Landmine Single Arm Staggered Overhead Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Landmine Single Arm Push Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Landmine Single Arm Overhead Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Landmine Seated Single Arm Overhead Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Landmine Seated Overhead Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Landmine Seated Alternating Overhead Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Landmine Overhead Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Landmine Lying Tricep Extension",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Landmine Kneeling Overhead Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Skullcrusher",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Decline Skullcrusher",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Rolling Tricep Extension",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Overhead Tricep Extension",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Dumbbell Overhead Tricep Extension",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Tricep Kickback",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Overhead Tricep Extension",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Incline Skullover",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Tricep Guillotine Press",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell High Incline Skullover",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Tricep Guilotine Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Diamond Push Ups",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Bench Dips",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Ring Skullcrusher",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Bodyweight Tricep Extension",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Bodyweight Knee Tricep Extension",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Machine Tricep Pushdown",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Machine Overhead Tricep Extension",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Decline Skull Crusher",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Single Arm Tricep Guilotine Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Floor Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Single Arm Floor Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Triceps Stretch Variation One",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Triceps Stretch Variation Two",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Triceps Stretch Variation Three",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cable Rope Pushdown",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Rope Skullcrusher",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Cross Pushdown",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Rope Overhead Tricep Extension",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Bar Rolling Pushdown",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Rope Rolling Pushdown",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Single Arm Rolling Pushdown",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Bar Skullcrusher",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Single Arm Pushdown",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Leaning Single Arm Skullover",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Single Arm Overhead Tricep Extension",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Overhead Tricep Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Band Rapunzel Pushdown",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Band Single Arm Pushdown",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Single Arm Rapunzel Pushdown",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Band Single Arm Skullcrusher",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Overhead Tricep Extension",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Weighted Diamond Push Ups",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "TRX Skullcrusher",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Smith Machine Skullcrusher",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Smith Machine Close Grip Bench Press",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Smith Machine Bodyweight Skullcrusher",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Pullover",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Pullover",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Shoulder Extension",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Weighted Pull Ups",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Single Arm Pullover",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Pull Ups",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "L Sit Pull Up",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Ring Pull Up",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Machine Pulldown",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Machine Plate Loaded Row",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Machine Plate Loaded T Bar Row",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Machine Plate Loaded T Bar Row",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Machine Plate Loaded T Bar Row",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Underhand Pulldown",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Machine Neutral Row",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Stretcher",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Machine Chest Supported T Bar Row",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Machine Chest Supported T Bar Row",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Machine Chest Supported T Bar Row",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Machine Pullover",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Machine Plate Loaded Seal Row",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Machine Plate Loaded Seal Row",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Machine Plate Loaded Seal Row",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Single Arm Pullover",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Lats Stretch Variation One",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Lats Stretch Variation Two",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Lats Stretch Variation Three",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cable Bent Over Bar Pullover",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Lat Prayer",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Single Arm Lat Prayer",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Kayak Row",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Rope Pullover",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Rope Lat Prayer",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Straight Arm Pull In",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Straight Arm Pull In",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Archer Row",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Supinating Row",
+    "grip": "Rotating"
+  },
+  {
+    "workout_name": "Cable Single Arm Neutral Grip Row",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Band Half Kneeling Single Arm Pulldown",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Band Seated Single Arm Pulldown",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Band Seated Pulldown",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Band Kneeling Pulldown",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Plate Alternating Deadstop Row",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Weighted Pull Ups",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Bosu Ball Pullover",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Smith Machine Assisted Pullup",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Spinal Jefferson Curl",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Barbell Rack Pull",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Superman",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Superman Hold",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Spinal Jefferson Curl",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Supermans",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bodyweight Superman Pull",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Bodyweight Spinal Jefferson Curl",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Machine 45 Degree Back Extension",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Machine Back Extension",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Spinal Jefferson Curl",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Lower back Stretch Variation One",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Lower back Stretch Variation Two",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Lower back Stretch Variation Three",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Lower back Stretch Variation Four",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cable Bench Straight Leg Kickback",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cable Incline Bench Straight Leg Kickback",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Plate Superman",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Superman Hold",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Bosu Ball Superman",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Neutral Pulldown",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Machine Plate Loaded Low Row",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Rear Delt Row (Double)",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Silverback Shrug",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Kettlebell Silverback Shrug",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Traps mid back Stretch Variation One",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Traps mid back Stretch Variation Two",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cable Row Bar Standing Row",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Single Arm Underhand Grip Row",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Band Pull Apart",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Band High Face Pull",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Band Rear Delt Fly",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Plate Internally Rotated Rear Delt Fly",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Plate Rear Delt Fly",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "TRX Rear Delt Fly",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "TRX Rear Delt Fly",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "TRX Rear Delt Row",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "TRX W Raise",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Laying Reverse Fly",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Laying Reverse Fly Internally Rotated",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Internally Rotated Seated Rear Delt Fly",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell Shoulder External Rotation",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Dumbbell Internally Rotated Rear Delt Fly",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Dumbbell External Rotation",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Ring Rear Delt Fly",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Machine Overhand Row",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Machine Reverse Fly",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Machine Rear Deltoid Row",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Shoulders Stretch Variation Four",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cable Rope Face Pulls",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable High Single Arm Rear Delt Fly",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Rope Kneeling Face Pull",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable High Reverse Fly",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable Single Arm Internally Rotated High Reverse Fly",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable High Internally Rotated Reverse Fly",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Cable External Rotation",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Bar Face Pull",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Seated Bar Face Pull",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Seated Rope Face Pull",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Seated Single Arm Face Pull",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Cable Single Arm Face Pull",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Mini Band Bent Over Rear Delt Row",
+    "grip": "Underhand"
+  },
+  {
+    "workout_name": "Rotator Cuff External Rotations 1",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Rotator Cuff External Rotations 2",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Rotator Cuff External Rotations 3",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Rotator Cuff Mobilisation Lacrosse Ball",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Seated Shoulder Abduction",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Side Lying External Rotator Cuff Stretch",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Standing Shoulder Abduction",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Shoulder Abduction Stretch",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Pushup Position Shoulder Clock",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Band Shoulder Y Raise",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Shoulder External Internal Rotation",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Shoulder External Rotation Deceleration",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Dumbbell Pullover Eccentrics",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Standing Shoulder Flexion Mobility",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Shoulder Flexion Wall Stretch",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Kettlebell Shoulder Flexion Bent Elbow Hold",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Walking Shoulder Flexion Bent Elbow Hold",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Kettlebell Kneel To Stand Shoulder Flexion Bent Elbow Hold",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Shoulder Girdle Stability Circles",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Side Shoulder Girdle Stability Circles",
+    "grip": "Overhand"
+  },
+  {
+    "workout_name": "Serratus Activation Plank",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bosu Serratus Activation Plank",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Bosu Serratus Activation Active Plank",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Serratus Activation Cross Punch",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Shoulder Flexion Thoracic Extensions",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Thoracic Flexion And Extensions",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Seated Ulnar Nerve Slider",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Seated Ulnar Nerve Tensioner",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Seated Median Nerve Tensioner",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Resisted Radial Deviation",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Seated Radial Nerve Slider",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Seated Radial Nerve Tensioner",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Ulnar Deviations",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Single Leg Balance 2",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Alphabet",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Dorsal Flexion Hold",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Eversions",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Ankle Circle",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Foam Roller Angel",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Cervical Extension Banded Hold",
+    "grip": "Neutral"
+  },
+  {
+    "workout_name": "Laying Cervical Flexion 2",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Seated Cervical Rotation Hold",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Seated Cervical Side Flexion Hold",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Band Seated Cervical Side Flexion Hold",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Band Seated Cervical Side Flexion",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Laying Chin Tucks",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Standing Neck Mobility Circumductions",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Standing Neck Extensions",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Standing Neck Flexions",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Standing Neck Rotations",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Standing Neck Side Flexions",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Thoracic Extensions Foam Roller",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Intrascapular Muscle Contraction",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Laying Ts",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Scapular Depression",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Scapular Protraction",
+    "grip": "None"
+  },
+  {
+    "workout_name": "Scapular Retraction",
+    "grip": "None"
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "name": "calves",
+    "class": "bodymap text-mw-gray active:text-mw-red-700 lg:hover:text-mw-red-100",
+    "scrape_metadata": {
+      "dom_index": 0,
+      "selector": "g.bodymap[id]",
+      "scraped_at": "2026-07-23T11:28:20+07:00"
+    }
+  },
+  {
+    "name": "quads",
+    "class": "bodymap text-mw-gray active:text-mw-red-700 lg:hover:text-mw-red-100",
+    "scrape_metadata": {
+      "dom_index": 1,
+      "selector": "g.bodymap[id]",
+      "scraped_at": "2026-07-23T11:28:20+07:00"
+    }
+  },
+  {
+    "name": "abdominals",
+    "class": "bodymap text-mw-gray active:text-mw-red-700 lg:hover:text-mw-red-100",
+    "scrape_metadata": {
+      "dom_index": 2,
+      "selector": "g.bodymap[id]",
+      "scraped_at": "2026-07-23T11:28:20+07:00"
+    }
+  },
+  {
+    "name": "obliques",
+    "class": "bodymap text-mw-gray active:text-mw-red-700 lg:hover:text-mw-red-100",
+    "scrape_metadata": {
+      "dom_index": 3,
+      "selector": "g.bodymap[id]",
+      "scraped_at": "2026-07-23T11:28:20+07:00"
+    }
+  },
+  {
+    "name": "hands",
+    "class": "bodymap text-mw-gray active:text-mw-red-700 lg:hover:text-mw-red-100",
+    "scrape_metadata": {
+      "dom_index": 4,
+      "selector": "g.bodymap[id]",
+      "scraped_at": "2026-07-23T11:28:20+07:00"
+    }
+  },
+  {
+    "name": "forearms",
+    "class": "bodymap text-mw-gray active:text-mw-red-700 lg:hover:text-mw-red-100",
+    "scrape_metadata": {
+      "dom_index": 5,
+      "selector": "g.bodymap[id]",
+      "scraped_at": "2026-07-23T11:28:20+07:00"
+    }
+  },
+  {
+    "name": "biceps",
+    "class": "bodymap text-mw-gray active:text-mw-red-700 lg:hover:text-mw-red-100",
+    "scrape_metadata": {
+      "dom_index": 6,
+      "selector": "g.bodymap[id]",
+      "scraped_at": "2026-07-23T11:28:20+07:00"
+    }
+  },
+  {
+    "name": "front-shoulders",
+    "class": "bodymap text-mw-gray active:text-mw-red-700 lg:hover:text-mw-red-100",
+    "scrape_metadata": {
+      "dom_index": 7,
+      "selector": "g.bodymap[id]",
+      "scraped_at": "2026-07-23T11:28:20+07:00"
+    }
+  },
+  {
+    "name": "chest",
+    "class": "bodymap text-mw-gray active:text-mw-red-700 lg:hover:text-mw-red-100",
+    "scrape_metadata": {
+      "dom_index": 8,
+      "selector": "g.bodymap[id]",
+      "scraped_at": "2026-07-23T11:28:20+07:00"
+    }
+  },
+  {
+    "name": "traps",
+    "class": "bodymap text-mw-gray active:text-mw-red-700 lg:hover:text-mw-red-100",
+    "scrape_metadata": {
+      "dom_index": 9,
+      "selector": "g.bodymap[id]",
+      "scraped_at": "2026-07-23T11:28:20+07:00"
+    }
+  },
+  {
+    "name": "hamstrings",
+    "class": "bodymap text-mw-gray active:text-mw-red-700 lg:hover:text-mw-red-100",
+    "scrape_metadata": {
+      "dom_index": 12,
+      "selector": "g.bodymap[id]",
+      "scraped_at": "2026-07-23T11:28:20+07:00"
+    }
+  },
+  {
+    "name": "glutes",
+    "class": "bodymap text-mw-gray active:text-mw-red-700 lg:hover:text-mw-red-100",
+    "scrape_metadata": {
+      "dom_index": 13,
+      "selector": "g.bodymap[id]",
+      "scraped_at": "2026-07-23T11:28:20+07:00"
+    }
+  },
+  {
+    "name": "triceps",
+    "class": "bodymap text-mw-gray active:text-mw-red-700 lg:hover:text-mw-red-100",
+    "scrape_metadata": {
+      "dom_index": 16,
+      "selector": "g.bodymap[id]",
+      "scraped_at": "2026-07-23T11:28:20+07:00"
+    }
+  },
+  {
+    "name": "lats",
+    "class": "bodymap text-mw-gray active:text-mw-red-700 lg:hover:text-mw-red-100",
+    "scrape_metadata": {
+      "dom_index": 17,
+      "selector": "g.bodymap[id]",
+      "scraped_at": "2026-07-23T11:28:20+07:00"
+    }
+  },
+  {
+    "name": "lowerback",
+    "class": "bodymap text-mw-gray active:text-mw-red-700 lg:hover:text-mw-red-100",
+    "scrape_metadata": {
+      "dom_index": 18,
+      "selector": "g.bodymap[id]",
+      "scraped_at": "2026-07-23T11:28:20+07:00"
+    }
+  },
+  {
+    "name": "traps-middle",
+    "class": "bodymap text-mw-gray active:text-mw-red-700 lg:hover:text-mw-red-100",
+    "scrape_metadata": {
+      "dom_index": 19,
+      "selector": "g.bodymap[id]",
+      "scraped_at": "2026-07-23T11:28:20+07:00"
+    }
+  },
+  {
+    "name": "rear-shoulders",
+    "class": "bodymap text-mw-gray active:text-mw-red-700 lg:hover:text-mw-red-100",
+    "scrape_metadata": {
+      "dom_index": 20,
+      "selector": "g.bodymap[id]",
+      "scraped_at": "2026-07-23T11:28:20+07:00"
+    }
+  },
+  {
+    "name": "shoulders",
+    "class": "joints text-mw-red stroke-[#484a68] hover:text-mw-green hover:stroke-gray-900",
+    "scrape_metadata": {
+      "dom_index": 0,
+      "selector": "g.joints[id]",
+      "scraped_at": "2026-07-23T11:28:25+07:00"
+    }
+  },
+  {
+    "name": "elbow",
+    "class": "joints text-mw-red stroke-[#484a68] hover:text-mw-green hover:stroke-gray-900",
+    "scrape_metadata": {
+      "dom_index": 1,
+      "selector": "g.joints[id]",
+      "scraped_at": "2026-07-23T11:28:25+07:00"
+    }
+  },
+  {
+    "name": "wrist",
+    "class": "joints text-mw-red stroke-[#484a68] hover:text-mw-green hover:stroke-gray-900",
+    "scrape_metadata": {
+      "dom_index": 2,
+      "selector": "g.joints[id]",
+      "scraped_at": "2026-07-23T11:28:25+07:00"
+    }
+  },
+  {
+    "name": "hips",
+    "class": "joints text-mw-red stroke-[#484a68] hover:text-mw-green hover:stroke-gray-900",
+    "scrape_metadata": {
+      "dom_index": 3,
+      "selector": "g.joints[id]",
+      "scraped_at": "2026-07-23T11:28:25+07:00"
+    }
+  },
+  {
+    "name": "knees",
+    "class": "joints text-mw-red stroke-[#484a68] hover:text-mw-green hover:stroke-gray-900",
+    "scrape_metadata": {
+      "dom_index": 4,
+      "selector": "g.joints[id]",
+      "scraped_at": "2026-07-23T11:28:25+07:00"
+    }
+  },
+  {
+    "name": "ankles",
+    "class": "joints text-mw-red stroke-[#484a68] hover:text-mw-green hover:stroke-gray-900",
+    "scrape_metadata": {
+      "dom_index": 5,
+      "selector": "g.joints[id]",
+      "scraped_at": "2026-07-23T11:28:25+07:00"
+    }
+  },
+  {
+    "name": "upper-spine",
+    "class": "joints text-mw-red stroke-[#484a68] hover:text-mw-green hover:stroke-gray-900",
+    "scrape_metadata": {
+      "dom_index": 10,
+      "selector": "g.joints[id]",
+      "scraped_at": "2026-07-23T11:28:25+07:00"
+    }
+  },
+  {
+    "name": "scapula",
+    "class": "joints text-mw-red stroke-[#484a68] hover:text-mw-green hover:stroke-gray-900",
+    "scrape_metadata": {
+      "dom_index": 11,
+      "selector": "g.joints[id]",
+      "scraped_at": "2026-07-23T11:28:25+07:00"
+    }
+  },
+  {
+    "name": "lower-spine",
+    "class": "joints text-mw-red stroke-[#484a68] hover:text-mw-green hover:stroke-gray-900",
+    "scrape_metadata": {
+      "dom_index": 12,
+      "selector": "g.joints[id]",
+      "scraped_at": "2026-07-23T11:28:25+07:00"
+    }
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Calves",
+    "type": "Muscle"
+  },
+  {
+    "name": "Quads",
+    "type": "Muscle"
+  },
+  {
+    "name": "Abdominals",
+    "type": "Muscle"
+  },
+  {
+    "name": "Obliques",
+    "type": "Muscle"
+  },
+  {
+    "name": "Hands",
+    "type": "Muscle"
+  },
+  {
+    "name": "Forearms",
+    "type": "Muscle"
+  },
+  {
+    "name": "Biceps",
+    "type": "Muscle"
+  },
+  {
+    "name": "Front Shoulders",
+    "type": "Muscle"
+  },
+  {
+    "name": "Chest",
+    "type": "Muscle"
+  },
+  {
+    "name": "Traps",
+    "type": "Muscle"
+  },
+  {
+    "name": "Hamstrings",
+    "type": "Muscle"
+  },
+  {
+    "name": "Glutes",
+    "type": "Muscle"
+  },
+  {
+    "name": "Triceps",
+    "type": "Muscle"
+  },
+  {
+    "name": "Lats",
+    "type": "Muscle"
+  },
+  {
+    "name": "Lowerback",
+    "type": "Muscle"
+  },
+  {
+    "name": "Traps Middle",
+    "type": "Muscle"
+  },
+  {
+    "name": "Rear Shoulders",
+    "type": "Muscle"
+  },
+  {
+    "name": "Shoulders",
+    "type": "Joint"
+  },
+  {
+    "name": "Elbow",
+    "type": "Joint"
+  },
+  {
+    "name": "Wrist",
+    "type": "Joint"
+  },
+  {
+    "name": "Hips",
+    "type": "Joint"
+  },
+  {
+    "name": "Knees",
+    "type": "Joint"
+  },
+  {
+    "name": "Ankles",
+    "type": "Joint"
+  },
+  {
+    "name": "Upper Spine",
+    "type": "Joint"
+  },
+  {
+    "name": "Scapula",
+    "type": "Joint"
+  },
+  {
+    "name": "Lower Spine",
+    "type": "Joint"
+  }
+]
