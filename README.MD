@@ -1,75 +1,440 @@
-<h1 align="center">
-  <br>
-  Seleksi Warga Basdat 2026 <br>
-  ETL Project
-  <br>
-  <br>
-</h1>
+# Seleksi-2026-Tugas-1
+Program ini merupakan implementasi proses web scraping dan pembangunan database `exercise` sebagai bagian dari Tugas Seleksi 1 Asisten mata kuliah IF2240 Basis Data.
 
-<h2 align="left">
-  <br>
-  Singkatnya?
-  <br>
-</h2>
-Pada tahap seleksi ini, peserta akan diminta untuk melakukan proses ETL yang meliputi data scraping, database modeling, dan data storing terkait sebuah topik yang dibebaskan kepada peserta. Peserta juga diminta untuk merancang sebuah model ERD dan model relasional yang akan diimplementasikan untuk menyimpan hasil proses data scraping sebelumnya. Tahap seleksi ini menguji kemampuan peserta untuk mengumpulkan data, merancang sebuah database, dan merealisasikan rancangan tersebut menjadi sebuah database relasional yang fungsional.
-  <br>
+## Daftar Isi
 
-## Step 1: Data Scraping
-1. Pilih sebuah topik yang akan kalian jadikan sebagai tema pada seleksi _data scraping_ Anda. Daftarkan topik tersebut ke dalam spreadsheet berikut:
-[Daftar Topik Seleksi Asisten Lab Basis Data 2026](https://docs.google.com/spreadsheets/d/1cowSMPtWQApyALrypfMBJSOuqbXyGh2cCaDXKRs8fD4/edit?usp=sharing)
-    - Usahakan agar tidak ada dua atau lebih peserta dengan topik yang sama
-    - First come, first served. Bila ada dua atau lebih peserta dengan topik yang sama, peserta dengan topik yang sudah terdaftar duluan (berada di atas) akan diprioritaskan.
-    - Akses edit ke _spreadsheet_ topik data scraping akan ditutup pada tanggal **25 Juli pukul 20:40 WIB**
-2. Lakukan _data scraping_ dari sebuah _web page_ untuk memperoleh data dan informasi sesuai dengan topik yang telah dipilih oleh masing-masing peserta. 
-    - Data dan informasi yang diperoleh akan digunakan di _step_ berikutnya sebagai data yang akan disimpan di dalam sebuah RDBMS
-    - Peserta **DILARANG** menggunakan API untuk melakukan proses data scraping
-3. Pada folder `Data Scraping`, peserta harus mengumpulkan file _script_ dan file JSON hasil _scraping_ yang telah dilakukan
-    - Folder `src` berisi _script_/_code_ yang telah digunakan untuk _scraping_. Pastikan bahwa _script_/_code_ yang kalian bua bersifat well documented dan clean. 
-    - Folder `data` berisi semua data dan informasi yang berhasil kalian scrape dalam bentu JSON. Peserta diperbolehkan untuk memisahkan hasil _scraping_ ke dalam file-file yang berbeda ataupun digabung dalam satu file yang besar. Yang penting sesuai dengan output dari _script_ _data scraping_ yang digunakan
-    - Folder `screenshot` berisi tangkapan layar dari _script/code_ yang kalian gunakan untuk _data scraping_. Pastikan tangkapan layar dapat dibaca dengan jelas
-4. Sebagai referensi untuk mempelajari dan mengenal _data scraping_, asisten telah menyiapkan dokumen panduan singkat pada link berikut: Panduan Singkat Data Scraping
-    - Dokumen tersebut hanya merupakan panduan bagi peserta. Metodologi _data scraping_ yang digunakan oleh peserta seleksi basdat dibebaskan (asal sesuai peraturan)
-    - Perhatikan dan peragakan etika _data scraping_ yang baik dalam pelaksanaan seleksi ini
-5. Syarat data yang diperoleh dari proses data scraping: Data yang diperoleh harus di-_preprocessing_ terlebih dahulu
-    - Beberapa contoh _preprocessing_:
-        - Cleaning
-        - Parsing
-        - Transformation
-        - Dll
-    - Preprocessing dilakukan untuk memastikan data yang diterima tidak sepenuh-penuhnya mentah dan tidak dapat dipahami dengan mudah
+- [Deskripsi Singkat](#deskripsi-singkat)
+- [Author](#author)
+- [Struktur Proyek](#struktur-proyek)
+- [Requirements](#requirements)
+- [Cara Penggunaan](#cara-penggunaan)
+  - [Scraping](#scraping)
+  - [Transform](#transform)
+  - [Seeding](#seeding)
+  - [Inisialisasi Database](#inisialisasi-database)
+- [Struktur ERD dan Diagram Relasional](#struktur-erd-dan-diagram-relasional)
+- [Automated Scheduling](#automated-scheduling)
+  - [Membuat User Pipeline](#membuat-user-pipeline)
+  - [Konfigurasi Database Lokal](#konfigurasi-database-lokal)
+  - [Otomasi Proses](#otomasi-proses)
+  - [Pencegahan Redundansi](#pencegahan-redundansi)
+  - [Waktu Pelaksanaan](#waktu-pelaksanaan)
+- [Screenshot Database](#screenshot-database)
+- [Referensi](#referensi)
+
+## Deskripsi Singkat
+Data yang dikumpulkan dan diimplementasikan ke dalam DBMS merupakan data exercise yang diperoleh dari [MuscleWiki](https://musclewiki.com/). Secara keseluruhan, database ini menyimpan informasi mengenai workout, target area, kategori, langkah panduan, serta program workout.
+
+Workout menjadi salah satu aktivitas olahraga yang banyak diminati. Namun, banyaknya jenis gerakan dan variasi workout dapat menyulitkan pengguna dalam mencari latihan yang sesuai, terutama bagi pemula yang ingin menyusun resep program berdasarkan kebutuhan dan kemampuan masing-masing.
+
+[MuscleWiki](https://musclewiki.com/) dipilih sebagai sumber data karena menyediakan informasi workout yang cukup lengkap. Meskipun demikian, proses pencarian pada website tersebut masih memiliki keterbatasan. Misalnya, pengguna hanya dapat melihat daftar workout berdasarkan satu target area dan satu filter dalam satu waktu. 
+
+Melalui database `exercise`, data dari berbagai target dan kategori dapat dikombinasikan secara lebih fleksibel menggunakan query. Pengguna dapat mencari workout berdasarkan beberapa target area sekaligus maupun berdasarkan atribut lain, seperti kategori, tingkat kesulitan, mekanisme gerakan, force, grip, dan tag. Sehingga, database ini diharapkan dapat mempermudah pengguna, terutama pemula, dalam mencari workout dan menyusun program latihan yang sesuai dengan kebutuhan.
+
+## Author
+| NIM | Nama |
+|:---:|:---:|
+| 13524042 | Suryani Mulia Utami
+
+## Struktur Proyek
+
+```text
+Seleksi-2026-Tugas-1/
+│
+├── Data Scraping/
+│   ├── src/
+│   │   ├── scraper/
+│   │   │   ├── main.py
+│   │   │   ├── scrape_filters.py
+│   │   │   ├── scrape_target_areas.py
+│   │   │   ├── scrape_listings.py
+│   │   │   ├── scrape_workouts.py
+│   │   │   └── scrape_programs.py
+│   │   │
+│   │   ├── transform/
+│   │   │   ├── main.py
+│   │   │   ├── build_relations.py
+│   │   │   ├── deduplicate.py
+│   │   │   ├── normalize.py
+│   │   │   └── parse.py
+│   │   │
+│   │   └── helpers/
+│   │
+│   └── data/
+│       ├── raw/
+│       │   ├── history/20260723_112820/  # history batch 1
+│       │   ├── history/20260723_112820/  # history batch 2
+│       │   │
+│       │   ├── filters.json
+│       │   ├── target_areas.json
+│       │   ├── listings.json
+│       │   ├── workouts.json
+│       │   └── programs.json
+│       │
+│       └── processed/
+│           ├── categories.json
+│           ├── target_areas.json
+│           ├── workouts.json
+│           ├── workout_grips.json
+│           ├── steps.json
+│           ├── workout_tags.json
+│           ├── workout_targets.json
+│           ├── programs.json
+│           └── program_workouts.json
+│   
+├── Data Storing/
+│   ├── src/
+│   │   ├── schema/
+│   │   ├── constraints/
+│   │   ├── helpers/
+│   │   ├── seed/
+│   │   │   └── seed.sql
+│   │   ├── seeder/
+│   │   └── exercise.sql  # jalankan sekali di awal untuk initiate database
+│   │
+│   ├── design/
+│   │   ├── erd_exercise.png
+│   │   └── relational_diagram_exercise.png
+│   │
+│   ├── export/
+│   │   ├── exercise_dump_20260723_112820.sql   # dump batch 1
+│   │   └── exercise_dump_20260723_112820.sql   # dump batch 2
+│   │
+│   └── screenshot/
+│
+├── config/
+│   └── pipeline.cnf.example
+│
+├── Query Optimasi/
+│   ├── screenshot/
+│   └── query_optimasi.sql
+│
+├── scheduled_pipeline.bat  # automated scheduling
+├── requirements.txt
+└── README.md
+```
+
+## Requirements
+* `Playwright`, `Playwright Chromium`, dan `Tzdata` 
+```bash
+python -m pip install -r requirements.txt
+python -m playwright install chromium
+```
+
+## Cara Penggunaan
+Pipeline pengolahan data terdiri atas:
+
+Scraping -> Transform -> Seeding -> Database
+
+### Scraping 
+
+```bash
+cd "Data Scraping"
+python -m src.scraper.main
+```
+
+#### Output
+
+Output proses scraping disimpan pada: `Data Scraping/data/raw/`
+
+File yang dihasilkan:
+- `filters.json`
+- `target_areas.json`
+- `listings.json`
+- `workouts.json`
+- `programs.json`
+
+Struktur `filters.json`:
+```bash
+{
+  "name": "...",
+  "scrape_metadata": {
+    "dom_index": 0,
+    "filter_id": "...",
+    "selector": "...",
+    "scraped_at": "..."
+  }
+}
+```
+
+Struktur `target_areas.json`:
+```bash
+{
+  "name": "...",
+  "class": "...",
+  "scrape_metadata": {
+    "dom_index": 0,
+    "selector": "...",
+    "scraped_at": "..."
+  }
+}
+```
+
+Struktur `listings.json`:
+```bash
+{
+  "target_name": "...",
+  "filter_name": "...",
+  "page_number": 1,
+  "workout_count": 0,
+  "workouts": [
+    {
+      "name": "...",
+      "detail_url": "...",
+      "scrape_metadata": {
+        "dom_index": 0,
+        "selector": "..."
+      }
+    }
+  ],
+  "scrape_metadata": {
+    "url": "...",
+    "page_url": "...",
+    "scraped_at": "..."
+  }
+}
+```
+
+Struktur `workouts.json`:
+```bash
+{
+  "target_name": "...",
+  "filter_name": "...",
+  "page_number": 1,
+  "workout_count": 0,
+  "workouts": [
+    {
+      "name": "...",
+      "detail_url": "...",
+      "scrape_metadata": {
+        "dom_index": 0,
+        "selector": "..."
+      }
+    }
+  ],
+  "scrape_metadata": {
+    "url": "...",
+    "page_url": "...",
+    "scraped_at": "..."
+  }
+}
+```
+Struktur `programs.json`:
+```bash
+{
+  "name": "...",
+  "detail_url": "...",
+  "difficulty": "...",
+  "goal": "...",
+  "description": "...",
+  "workout_count": 0,
+  "workout": [
+    {
+      "name": "...",
+      "series": "...",
+      "scrape_metadata": {
+        "dom_index": 0,
+        "selector_workout": "...",
+        "selector_series": "..."
+      }
+    }
+  ],
+  "scrape_metadata": {
+    "page_number": 1,
+    "dom_index": 0,
+    "selector": "...",
+    "scraped_at": "..."
+  }
+}
+```
+
+### Transform
+Masih di direktori `Data Scraping/`
+
+Untuk membersihkan dan mempersiapkan data, jalankan:
+```bash
+python -m src.transform.main
+```
+#### Output
+Output proses transform disimpan pada: `Data Scraping/data/processed/`
+
+File yang dihasilkan:
+- categories.json
+- target_areas.json
+- workouts.json
+- workout_grips.json
+- steps.json
+- workout_tags.json
+- workout_targets.json
+- programs.json
+- program_workouts.json
+
+Berikut beberapa hal yang dilakukan pada tahap ini:
+#### Parsing data
+Parsing dilakukan untuk memecah nilai mentah yang masih tersimpan dalam satu string menjadi beberapa nilai terpisah.
+
+Pada atribut grips, setiap grip yang awalnya dipisahkan dengan tanda koma diubah menjadi daftar grip individual. Setiap grip kemudian digunakan untuk membentuk data pada tabel WorkoutGrip.
+
+Contoh:
+```bash
+"grips": "Overhand, Neutral, Underhand"
+```
+diubah menjadi:
+```bash
+"Overhand"
+"Neutral"
+"Underhand"
+```
+#### Normalisasi 
+
+Normalisasi atribut CSS class yang diperoleh saat scraping ke dalam atribut tipe target dan role target.
+
+Contoh:
+```bash
+# Tipe target
+"class": "bodymap text-mw-gray ..."
+"class": "joints text-mw-red ..." 
+# Role target
+"class": "bodymap text-muscle-primary"
+```
+diubah menjadi:
+
+```bash
+# Tipe target
+"type": "Muscle"
+"type": "Joint"
+# Role target
+"role": "Primary"
+```
+#### Deduplikasi 
+Setelah data relasional dibentuk, setiap hasil diperiksa berdasarkan kombinasi key tertentu untuk memastikan setiap record unik.
+
+### Seeding
+```bash
+cd /"Data Storing"
+python -m src.seeder.main
+```
+#### Output
+Output proses seeding disimpan pada: `Data Storing/src/seed/seed.sql`
+
+### Inisialisasi Database
+Jalankan file `exercise.sql` menggunakan MariaDB
+```bash
+mariadb -u root -p < "src\exercise.sql"
+```
+File exercise.sql akan menjalankan:
+- Pembuatan database
+- Pembuatan schema
+- Apply constraints dan trigger
+- Seeding data
+
+## Struktur ERD dan Diagram Relasional 
+  ### ERD:
+  ![ERD](Data%20Storing/design/erd_exercise.png)
+
+  ### Relational Diagram:
+  ![Relational Diagram](Data%20Storing/design/relational_diagram_exercise.png)
+
+  Proses translasi ERD mengikuti beberapa aturan sebagai berikut:
+  1. Setiap entity (`program`, `workout`, `category`, `step`, `target_area`) pada ERD dibuat menjadi relasi.
+  2. Relasi `terdiri` yang menghubungkan program-workout bersifat many-to-many, sehingga dibuat relasi `program_workout` yang atributnya adalah PK pada relasi program, PK pada relasi workout, dan *relation's attribute* yang terdapat pada ERD (duration dan order_number).
+  3. Relasi `menargetkan` yang menghubungkan workout-target_area bersifat many-to-many, sehingga dibuat relasi `workout_target` yang atributnya adalah PK pada relasi workout, PK pada relasi target_area, dan *relation's attribute* yang terdapat pada ERD (role).
+  4. Relasi `memiliki` menghubungkan workout-step di mana step adalah *Weak Entity*, sehingga PK dari workout dititipkan pada relasi `step`. Dengan begitu, PK dari relasi `step` adalah PK pada workout bersama dengan discriminator pada step (workout_name, step_number).
+  5. Relasi `termasuk` yang menghubungkan workout->category bersifat many-to-one, sehingga PK dari entity category dititipkan pada relasi workout (*many side*). Oleh karena itu, *category_name* menjadi atribut dari relasi workout.
+  6. Entity workout memiliki dua *multivalued attribute*, yaitu grip dan tag. Oleh karena itu, dibuat 2 relasi `workout_grip` dan `workout_tag` yang masing-masing memiliki PK dari workout sebagai atributnya. Dengan begitu, PK dari relasi `workout_grip` adalah (workout_name, grip) dan PK dari relasi `workout_tag` adalah (workout_name, tag)
   
 
-## Step 2: Data Modeling + Data Storing
-1. Dari hasil proses _data scraping_ yang telah dilakukan, lakukan perancangan _database_ dalam bentuk **ERD**. Sertakan asumsi dan penjelasan di dalam desain ERD-nya bila diperlukan
-2. Translasikan hasil desain ERD tersebut ke dalam bentuk diagram relasional. Peserta dipersilahkan untuk menambahkan tabel lain yang sekiranya relevan atau berkaitan dengan tabel-tabel yang murni didapatkan dari proses _data scraping_.
-3. Implementasikan skema diagram relasional tersebut ke dalam RDBMS sesuai pilihan peserta (PostgreSQL, mariaDB, etc). Peserta **dilarang** untuk menggunakan DBMS no-SQL
-    - Jangan lupa untuk mengimplementasikan _constraints_ ke dalam _database_ (primary key, foreign key, trigger, dll)
-4. Setelah _database_-nya telah diimplementasikan, masukkan data yang didapatkan dari proses _scraping_ ke dalam RDBMS yang telah dibuat
-    - Tabel tambahan yang dibuat pada poin 2 tidak perlu diisi dengan data (baik data _dummy_ maupun data asli). Cukup dibiarkan kosong
-5. Tools yang digunakan dibebaskan kepada peserta
-6. Pada folder `Data Storing`, peserta harus mengumpulkan bukti penyimpanan data pada DBMS. Folder `Data Storing` terdiri dari folder `design`, `export`, dan `screenshots`.
-    - Folder `design` berisi gambar ERD dan gambar diagram relasional dari _database_ yang kalian rancang. Format file yang diterima adalah **.png**
-    - Folder `src` berisi script/code yang telah digunakan untuk storing. Pastikan bahwa script/code yang kalian bua bersifat well documented dan clean. 
-    - Folder `export` berisi file hasil _export_ dari DBMS dengan format **.sql**
-    - Folder `screenshots` berisi tangkapan layar bukti dari penyimpanan data ke dalam RDBMS (Query SELECT FROM WHERE pada RDBMS)
+## Automated Scheduling
+Setelah menginisialisasi database, data dari database dapat di-update secara berkala. 
 
-## Bonus:
-Task-task berikut merupakan bonus yang **TIDAK WAJIB** dilakukan oleh peserta seleksi. Penyelesaian satu atau lebih dari task bonus akan membawa nilai tambahan bagi peserta yang menyelesaikannya. Peserta dibolehkan untuk mengerjakan sebagian atau seluruh dari task bonus yang tersedia
-1. Buatlah perancangan dan implementasi data warehouse berdasarkan data yang diperoleh dari proses data scraping. Rancanglah skema yang diperlukan untuk fact table dan dimension table (misalnya menggunakan pendekatan star schema atau snowflake schema) untuk mendukung kebutuhan analitik. Sertakan struktur skema data warehouse yang digunakan beserta contoh query analitik yang bisa dijalankan terhadap data tersebut. 
-2. Lakukan automated scheduling untuk keseluruhan proses, sehingga data dapat di-update secara berkala. Pastikan tidak terdapat redundansi data pada DBMS. Jika mengerjakan bonus ini, jelaskan pada README dan cantumkan pada data waktu pelaksanaan scheduling, misalnya dengan menunjukkan perbedaan timestamp ekstraksi antara data pada batch pertama dan data pada batch kedua
+Proses scraping, transformasi, seeding, dan update data ke database akan dilakukan secara otomatis
+
+### Cara Penggunaan
+
+#### Membuat User Pipeline
+Masuk ke MariaDB sebagai root:
+
+```bash
+mariadb -u root -p
+```
+
+kemudian jalankan:
+
+```sql
+CREATE USER IF NOT EXISTS 'pipeline_user'@'localhost'
+IDENTIFIED BY 'PASSWORD_KAMU';
+
+GRANT SELECT, INSERT, UPDATE, DELETE
+ON exercise.*
+TO 'pipeline_user'@'localhost';
+
+FLUSH PRIVILEGES;
+```
+
+Pastikan password sama dengan password pada file config.
+
+#### Konfigurasi Database Lokal
+Salin template:
+
+```text
+config/pipeline.cnf.example
+```
+
+lalu simpan sebagai:
+
+```text
+%USERPROFILE%\.mariadb\pipeline.cnf
+```
+
+#### Otomasi proses
+Coba jalankan `scheduled_pipeline.bat`. Bila berhasil, maka dapat dapat daftarkan `scheduled_pipeline.bat` pada *Windows Task Scheduler* agar proses dapat dijalankan secara berkala.
+
+### Pencegahan Redundansi
+Redundansi data dicegah dengan:
+- SQL seeder menggunakan `ON DUPLICATE KEY UPDATE` atau `INSERT IGNORE` sehingga record dengan PK yang sama tidak akan ditambahkan sebagai record baru.
+
+### Waktu Pelaksanaan 
+Automated scheduling diuji dalam dua batch pada tanggal 23 Juli 2026 untuk menunjukkan bahwa pipeline dapat melakukan pembaruan data secara berkala.
+
+Batch pertama dijalankan pada pukul **11:28:20 WIB**. Hasilnya disimpan pada:
+
+```text
+# Hasil data mentah
+Data Scraping/data/raw/history/20260723_112820/
+
+# Hasil dump
+Data Storing/export/exercise_dump_20260723_112820.sql
+```
+
+Batch kedua dijalankan pada pukul **17:39:06 WIB**. Hasilnya disimpan pada:
+```text
+# Hasil data mentah
+Data Scraping/data/raw/history/20260723_173906/
+
+# Hasil dump
+Data Storing/export/exercise_dump_20260723_173906.sql
+```
+
+## Screenshot Database
+![show_tables](Data%20Storing/screenshot/show_tables.png)
+![category](Data%20Storing/screenshot/category.png)
+![target_area](Data%20Storing/screenshot/target_area.png)
+![workout](Data%20Storing/screenshot/workout.png)
+![workout_target](Data%20Storing/screenshot/workout_target.png)
+![step](Data%20Storing/screenshot/step.png)
+![workout_tag](Data%20Storing/screenshot/workout_tag.png)
+![workout_grip](Data%20Storing/screenshot/workout_grip.png)
+![program](Data%20Storing/screenshot/program.png)
+![program_workout](Data%20Storing/screenshot/program_workout.png)
 
 
-# Pengumpulan
-1. Peserta diwajibkan untuk melakukan _fork_ terhadap project [GitHub Seleksi Lab Basdat 2026](https://github.com/wargabasdat/Seleksi-2026-Tugas-1). Peserta harus melakukan _pull request_ dengan nama **TUGAS_SELEKSI_1_[NIM]** sebelum tenggat waktu yang telah ditetapkan
-2. Tambahkan **.gitignore** pada _file_ atau _folder_ yang tidak perlu di-upload. NB: Binary tidak perlu di-upload
-3. Sertakan file **README** yang memuat:
-    - Author (Nama dan NIM)
-    - Deskripsi singkat mengenai data dan DBMS yang telah dibuat + mengapa kalian memilih topik tersebut
-    - Cara menggunakan scraper yang telah dibuat dan menggunakan hasil output-nya
-    - Penjelasan struktur dari file JSON yang dihasilkan scraper
-    - Struktur ERD dan diagram relasional RDBMS
-    - Penjelasan mengenai proses translasi ERD menjadi diagram relasional
-    - Beberapa screenshot dari program yang dijalankan (image di-upload sesuai folder-folder yang tersedia, di README tinggal ditampilkan)
-    - Referensi (library yang digunakan, link halaman web yang di-scrape, etc)
-  
-# DEADLINE PENGUMPULAN ADALAH TANGGAL 23 Juli 2026, PUKUL 22:40
+## Referensi
+
+### Sumber Data
+- [MuscleWiki](https://musclewiki.com/)
+
+### Teknologi dan Library
+- [Python](https://www.python.org/)
+- [Playwright for Python](https://playwright.dev/python/)
+- [MariaDB](https://mariadb.org/)
+- [tzdata](https://pypi.org/project/tzdata/)
