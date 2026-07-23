@@ -1,0 +1,4 @@
+[client]
+host=localhost
+user=pipeline_user
+password=YOUR_LOCAL_PASSWORD
